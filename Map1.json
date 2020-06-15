@@ -102,13 +102,25 @@
         "imageName": "vruchtenslof",
         "ingredients": "",
         "recipe": ""
+    },    {
+        "name": "Remco",
+        "category": "Koek",
+        "baketime": "100 min",
+        "expert": "Hard",
+        "id": 1009,
+        "isCaked": true,
+        "isFavorite": true,
+        "calories": "2200 Cal",
+        "imageName": "appelkoek",
+        "ingredients": "Tja wat denk je",
+        "recipe": "Ziet er goed uit. TOP GEDAAN!!"
     },
     {
         "name": "Appel Koek",
         "category": "Koek",
         "baketime": "90 min",
         "expert": "Medium",
-        "id": 1009,
+        "id": 1010,
         "isCaked": true,
         "isFavorite": false,
         "calories": "600 Cal",
