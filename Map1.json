@@ -1,119 +1,57 @@
-[
-    {
-        "name": "Aarbeien slof",
-        "category": "Slof",
-        "baketime": "25 min",
-        "expert": "Easy",
-        "id": 1001,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "100 Cal",
-        "imageName": "aardbeienslof",
-        "ingredients": "",
-        "recipe": ""
-    },
-    {
-        "name": "Appeltaart",
-        "category": "Taart",
-        "baketime": "30 min",
-        "expert": "Medium",
-        "id": 1002,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "200 Cal",
-        "imageName": "appeltaart",
-        "ingredients": "-Deeg 200 gram zachte boter (plus extra voor het invetten)\n-160 gram bruine basterdsuiker\n-0,50 theelepel kaneel (gemalen)\n-300 gram witte bloemmespuntje zout\n-1 eipaneermeel voor het bestuiven\n-Appelvulling\n-100 gram rozijnenrum\n-8 stuks Jonagold appels\n-100 gram gepelde walnoten\n-4 eetlepels suiker\n-1 zakje vanillesuiker\n-3 theelepels kaneel\n-Samenstellen\n-1 ei voor het bestrijken\n-25 blanke amandelenpoedersuiker",
-        "recipe": "Iedere zichzelf respecterende thuisbakker hoort een appeltaart in zijn of haar repertoire te hebben. En waarom niet deze? \n\rVoorbereiding: Vet een springvorm met een diameter van 24 centimeter in en bestuif met bloem. Verwarm de oven voor op 180°C. Deeg: Meng de zachte boter met de bruine basterdsuiker en kaneel. Zeef de bloem met een snuf zout boven het botermengsel en voeg 1 ei toe.Kneed tot een soepel deeg en laat afgedekt minimaal 15 minuten rusten in de koelkast.\nRol 2/3 deel van het deeg uit en bekleed de springvorm hiermee. Verdeel de paneermeel over de bodem. Zet de springvorm in de koelkast om verder te rusten.\nAppelvulling:Wel de rozijnen in wat rum.Schil de appels en snijd in partjes.Zeef de rozijnen. Meng de appelpartjes met de gewelde rozijnen, walnoten, suiker, vanillesuiker en kaneel.\n\rSamenstellen: Schep de vulling in de taartvorm. Rol het resterende deeg uit en bedek de bovenkant van de taart hiermee. Bestrijk de bovenkant met een losgeklopt ei en bestrooi met de amandelen. Bak de appeltaart in circa 60 minuten gaar. Laat afkoelen. Bestuif met poedersuiker wanneer u de taart serveert.\n\rEET SMAKKELIJK!"
-    },
-    {
-        "name": "Roomkoek",
-        "category": "Koek",
-        "baketime": "100 min",
-        "expert": "Hard",
-        "id": 1003,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "350 Cal",
-        "imageName": "roomkoek",
-        "ingredients": "",
-        "recipe": ""
-    },
-    {
-        "name": "slagroomtaart",
-        "category": "Taart",
-        "baketime": "20 min",
-        "expert": "Medium",
-        "id": 1004,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "600 Cal",
-        "imageName": "slagroomtaart",
-        "ingredients": "",
-        "recipe": ""
-    },
-    {
-        "name": "Monchou Slof",
-        "category": "Slof",
-        "baketime": "40 min",
-        "expert": "Medium",
-        "id": 1005,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "610 Cal",
-        "imageName": "monchouslof",
-        "ingredients": "",
-        "recipe": ""
-    },
-    {
-        "name": "Chocolade Koekje",
-        "category": "Koek",
-        "baketime": "50 min",
-        "expert": "Hard",
-        "id": 1006,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "90 Cal",
-        "imageName": "chocoladekoek",
-        "ingredients": "",
-        "recipe": ""
-    },
-    {
-        "name": "Kwarktaart",
-        "category": "Taart",
-        "baketime": "15 min",
-        "expert": "Easy",
-        "id": 1007,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "200 Cal",
-        "imageName": "kwarktaart",
-        "ingredients": "",
-        "recipe": ""
-    },
-    {
-        "name": "Vruchten Slof",
-        "category": "Slof",
-        "baketime": "60 min",
-        "expert": "Hard",
-        "id": 1008,
-        "isCaked": true,
-        "isFavorite": true,
-        "calories": "800 Cal",
-        "imageName": "vruchtenslof",
-        "ingredients": "",
-        "recipe": ""
-    },
-    {
-        "name": "Appel Koek",
-        "category": "Koek",
-        "baketime": "90 min",
-        "expert": "Medium",
-        "id": 1009,
-        "isCaked": true,
-        "isFavorite": false,
-        "calories": "600 Cal",
-        "imageName": "appelkoek",
-        "ingredients": "",
-        "recipe": ""
-    }
-]
+[{
+	"id": 5,
+	"title": "Joker",
+	"year": "2019",
+	"image": "",
+	"created_at": "2019-10-06T17:55:21.374Z",
+	"updated_at": "2019-10-06T17:55:21.374Z"
+}, {
+	"id": 1,
+	"title": "REMMMMIEEIEIEIEIEIIE",
+	"year": "1994",
+	"image": "",
+	"created_at": "2019-10-06T15:26:36.675Z",
+	"updated_at": "2019-10-06T18:05:31.649Z"
+}, {
+	"id": 4,
+	"title": " The Godfather ",
+	"year": "1972",
+	"image": "",
+	"created_at": "2019-10-06T15:27:38.123Z",
+	"updated_at": "2019-10-06T18:05:50.242Z"
+}, {
+	"id": 6,
+	"title": "The Dark Knight ",
+	"year": "2008",
+	"image": "",
+	"created_at": "2019-10-06T18:06:12.933Z",
+	"updated_at": "2019-10-06T18:06:12.933Z"
+}, {
+	"id": 7,
+	"title": "Fight Club",
+	"year": "1999",
+	"image": "",
+	"created_at": "2019-10-06T18:06:33.096Z",
+	"updated_at": "2019-10-06T18:06:33.096Z"
+}, {
+	"id": 8,
+	"title": " Inception",
+	"year": "2010",
+	"image": "",
+	"created_at": "2019-10-06T18:06:52.034Z",
+	"updated_at": "2019-10-06T18:06:52.034Z"
+}, {
+	"id": 2,
+	"title": "The Matrix ",
+	"year": "1999",
+	"image": "",
+	"created_at": "2019-10-06T15:26:48.042Z",
+	"updated_at": "2019-10-06T18:08:00.902Z"
+}, {
+	"id": 3,
+	"title": "The Shawshank Redemption ",
+	"year": "1984",
+	"image": "",
+	"created_at": "2019-10-06T15:26:59.572Z",
+	"updated_at": "2019-10-06T18:08:47.637Z"
+}]
