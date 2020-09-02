@@ -1,0 +1,10 @@
+[
+    {
+		"name": "Audi",
+		"category": "Station",
+		"id": 1001,
+		"isCaked": false,
+		"isFavorite": false,
+		"imageName": "audi",
+	}
+]
