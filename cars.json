@@ -3,7 +3,7 @@
 		"name": "Audi",
 		"category": "Station",
 		"id": 1001,
-		"isCaked": false,
+		"isCar": false,
 		"isFavorite": false,
 		"imageName": "audi",
 	}
