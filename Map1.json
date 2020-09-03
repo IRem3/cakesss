@@ -5,7 +5,7 @@
 		"baketime": "120 min",
 		"expert": "Medium",
 		"id": 1009,
-		"isCaked": false,
+		"isCaked": true,
 		"isFavorite": false,
 		"calories": "1 st.",
 		"imageName": "aardbeienslof",
