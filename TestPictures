@@ -1,0 +1,4 @@
+    let id: String
+    let title: String
+    let path: String
+    let description: String
