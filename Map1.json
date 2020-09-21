@@ -106,7 +106,7 @@
 	{
 		"name": "MonChou Koek",
 		"category": "Koek",
-		"baketime": "60 min",
+		"baketime": "30 min",
 		"expert": "Medium",
 		"id": 1009,
 		"isCaked": true,
