@@ -31,7 +31,7 @@
 		"baketime": "100 min",
 		"expert": "Hard",
 		"id": 1003,
-		"isCaked": true,
+		"isNew": false,
 		"isFavorite": false,
 		"calories": "350 Cal",
 		"imageName": "roomkoek",
