@@ -1,11 +1,11 @@
 [
  {
    "name": "Aardbeienslof",
-   "category": "Slof",
+   "category": "!Nieuw",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1001,
-   "isNew": false,
+   "isNew": true,
    "isFavorite": false,
    "pieces": "1 stuk",
    "imageName": "aardbeienslof",
@@ -79,7 +79,7 @@
  },
  {
    "name": "Cupcakes\nmet chocochips ",
-   "category": "!Nieuw",
+   "category": "Cake",
    "baketime": "15 min",
    "expert": "Easy",
    "id": 1007,
