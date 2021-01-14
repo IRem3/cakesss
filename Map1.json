@@ -144,7 +144,7 @@
  },
   {
    "name": "Slagroomtaart",
-   "category": "!Nieuw",
+   "category": "Taart",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1012,
@@ -154,5 +154,18 @@
    "imageName": "slagroomtaart",
    "ingredients": "- 3 eieren\n- 90 gram kristalsuiker\n- 63 gram bloem\n- 23 gram maizena\n- snuf zout\n- 13 ml water\n- 13 gram kristalsuiker\n- 1/2 el sinaasappelsap\n- 1/2 tl sinaasappelrasp\n- 500 ml slagroom\n- 50 gram kristalsuiker\n- 2 zakjes klopfix\n- aardbeienjam\n- 75 gram nougatine\n- fruit en chocolaatjes (decoratie)",
    "recipe": "1. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n2. Mix de 3 eieren en 90 gram kristalsuiker luchtig met de keukenmachine (ongeveer 10 minuten).\n3. Vet de 15 cm bakvorm (bij voorkeur hoge bakvorm) in en bestrooi het met bloem.\n4. Zeef de bloem en maizena en spatel dit samen met de snuf zout door het luchtige ei/suiker-mengsel.\n5. Giet het beslag in de bakvorm en bak de biscuit in de voorverwarmde oven 30 minuten gaar.\n6. Laat de biscuit volledig afkoelen.\n7. Maak ondertussen de tempeersiroop door de 23 ml water, 23 gram kristalsuiker, 1/2 el sinaasappelsap en 1/2 tl sinaasappelrasp in een steelpan te verwarmen, totdat de suiker helemaal is opgelost.\n8. Laat de siroop helemaal afkoelen.\n9. Klop de slagroom met de 50 gram kristalsuiker en 2 zakjes klopfix stijf.\n10. Wanneer de biscuit en siroop helemaal zijn afgekoeld, draai je de biscuit andersom en snijd je hem in 3 delen.\n11. Bestrijk de onderste laag met wat siroop en een laag slagroom.\n12. Leg de tweede laag op de eerste laag en bestrijk deze laag ook met wat siroop en daarna met een laag aardbeienjam.\n13. Leg de derde laag tenslotte op de tweede laag en bestrijk de bovenkant en zijkanten van de biscuit met slagroom.\n14. Druk de nougatine tegen de zijkanten van de taart.\n15. Spuit toeven slagroom op de bovenkant van de taart en decoreer het uiteindelijk met fruit en chocolaatjes."
+ },
+ {
+   "name": "Apfelstrudel",
+   "category": "!Nieuw",
+   "baketime": "45 min",
+   "expert": "Easy",
+   "id": 1013,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "apfelstrudel",
+   "ingredients": "Apfelstrudel:\n- 1 rol bladerdeeg\n- 2 appels (Elstar)\n- 50 gram blanke rozijnen\n- 4 tl kristalsuiker\n- 1 tl kaneel\n- 1 ei\n\rVanillesaus:\n- 6 gram custardpoeder\n- 16 gram kristalsuiker\n- 200 ml volle melk\n\rSlagroom:\n- 200 ml slagroom\n- 3 el kristalsuiker",
+   "recipe": "1. Verwarm de oven voor op 190 graden (onder- en bovenwarmte).\n2. Laat de rozijnen in lauwwarm water weken.\n3. Schil ondertussen de appels en snijd ze in blokjes.\n4. Meng de blokjes appel, geweekte rozijnen, 4 tl kristalsuiker en kaneel met elkaar.\n5. Leg het bladerdeeg horizontaal op een snijplank.\n6. Snijd de hoeken weg (4 cm horizontaal en 8 cm verticaal) en snijd daarna bij de boven- en onderkant inkepingen/repen van ongeveer 2 cm breed en 8 cm lang.\n7. Verdeel het appelmengsel over het midden van het bladerdeeg.\n8. Vouw de 2 flappen bladerdeeg (in het midden aan de zijkanten) naar binnen en vouw de repen bladerdeeg daarna kruislings naar binnen, zodat er een v-vorm ontstaat.\n9. Smeer de apfelstrudel in met wat ei en leg het op een, met bakpapier beklede, bakplaat.\n10. Bak de apfelstrudel 20 minuten in de voorverwarmde oven tot het een mooie goudbruine kleur heeft.\n11. Voor het maken van de vanillesaus meng je de custardpoeder en 16 gram kristalsuiker door elkaar in een kom.\n12. Roer hier 4 el volle melk doorheen.\n13. Verwarm de overige volle melk in een steelpan tot het kookt.\n14. Giet de verwarmde melk bij het custardmengsel en roer het door, totdat de melk helemaal is opgelost.\n15. Giet het mengsel terug in de steelpan en breng het opnieuw aan de kook.\n16. Laat het al roerende nog 3 minuten doorkoken.\n17. Klop de slagroom met de 3 el kristalsuiker in een schone kom stijf.\n18. Wacht tot de apfelstrudel klaar is en serveer deze met de warme vanillesaus en de slagroom. "
  }
 ]
