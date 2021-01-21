@@ -83,7 +83,7 @@
    "baketime": "15 min",
    "expert": "Easy",
    "id": 1007,
-   "isNew": true,
+   "isNew": false,
    "isFavorite": false,
    "pieces": "6 stuks",
    "imageName": "chocochipscupcake",
@@ -157,7 +157,7 @@
  },
  {
    "name": "Apfelstrudel",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1013,
@@ -167,5 +167,18 @@
    "imageName": "apfelstrudel",
    "ingredients": "Apfelstrudel:\n- 1 rol bladerdeeg\n- 2 appels (Elstar)\n- 50 gram blanke rozijnen\n- 4 tl kristalsuiker\n- 1 tl kaneel\n- 1 ei\n\rVanillesaus:\n- 6 gram custardpoeder\n- 16 gram kristalsuiker\n- 200 ml volle melk\n\rSlagroom:\n- 200 ml slagroom\n- 3 el kristalsuiker",
    "recipe": "1. Verwarm de oven voor op 190 graden (onder- en bovenwarmte).\n2. Laat de rozijnen in lauwwarm water weken.\n3. Schil ondertussen de appels en snijd ze in blokjes.\n4. Meng de blokjes appel, geweekte rozijnen, 4 tl kristalsuiker en kaneel met elkaar.\n5. Leg het bladerdeeg horizontaal op een snijplank.\n6. Snijd de hoeken weg (4 cm horizontaal en 8 cm verticaal) en snijd daarna bij de boven- en onderkant inkepingen/repen van ongeveer 2 cm breed en 8 cm lang.\n7. Verdeel het appelmengsel over het midden van het bladerdeeg.\n8. Vouw de 2 flappen bladerdeeg (in het midden aan de zijkanten) naar binnen en vouw de repen bladerdeeg daarna kruislings naar binnen, zodat er een v-vorm ontstaat.\n9. Smeer de apfelstrudel in met wat ei en leg het op een, met bakpapier beklede, bakplaat.\n10. Bak de apfelstrudel 20 minuten in de voorverwarmde oven tot het een mooie goudbruine kleur heeft.\n11. Voor het maken van de vanillesaus meng je de custardpoeder en 16 gram kristalsuiker door elkaar in een kom.\n12. Roer hier 4 el volle melk doorheen.\n13. Verwarm de overige volle melk in een steelpan tot het kookt.\n14. Giet de verwarmde melk bij het custardmengsel en roer het door, totdat de melk helemaal is opgelost.\n15. Giet het mengsel terug in de steelpan en breng het opnieuw aan de kook.\n16. Laat het al roerende nog 3 minuten doorkoken.\n17. Klop de slagroom met de 3 el kristalsuiker in een schone kom stijf.\n18. Wacht tot de apfelstrudel klaar is en serveer deze met de warme vanillesaus en de slagroom. "
+ },
+ {
+   "name": "Slagroomsoesjes",
+   "category": "!Nieuw",
+   "baketime": "60 min",
+   "expert": "Easy",
+   "id": 1014,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "15 stuks",
+   "imageName": "slagroomsoesjes",
+   "ingredients": "- 50 ml volle melk\n- 50 ml water\n- 50 gram ongezouten roomboter\n- snuf zout\n- 50 gram bloem\n- 2 eieren\n- 250 ml slagroom\n- 3 el kristalsuiker\n- 1 zakje klopfix\n- poedersuiker",
+   "recipe": "1. Verwarm de oven voor op 210 graden (onder- en bovenwarmte).\n2. Breng de volle melk, het water, de ongezouten roomboter (in blokjes, zodat het sneller smelt) en een snuf zout aan de kook in een steelpan.\n3. Zeef de bloem.\n4. Haal de steelpan van het vuur wanneer het mengsel kookt, voeg de gezeefde bloem hieraan toe en meng totdat de bloem helemaal is opgenomen.\n5. Zet de steelpan weer terug op het vuur en laat het deeg al roerende nog 3 minuten doorkoken.\n6. Doe het deeg in een kom, laat het even afkoelen, voeg het eerste ei toe en roer totdat het ei volledig is opgenomen.\n7. Voeg daarna het tweede ei toe en roer nu weer totdat het tweede ei ook volledig is opgenomen.\n8. Vul een spuitzak met het deeg en spuit kleine rondjes/bolletjes op een met bakpapier beklede bakplaat.\n9. Bak de soesjes 18 minuten in een voorverwarmde oven met boven- en onderwarmte op 210 graden.\n10. Klop de slagroom, kristalsuiker en klopfix in een kom stijf.\n11. Vul een spuitzak met de slagroom en leg het in de koelkast.\n12. Haal de soesjes na 18 minuten uit de oven (let op dat ze mooi goudbruin zijn), prik gaatjes in de onderkant van de soesjes en bak ze daarna nog 3 minuten in de oven op 210 graden.\n13. Laat de soesjes afkoelen.\n14. Wanneer de soesjes zijn afgekoeld, haal je de spuitzak met slagroom uit de koelkast en spuit je de slagroom via de onderkant in de soesjes.\n15. Bestrooi de soesjes met wat poedersuiker en serveer.   "
  }
 ]
