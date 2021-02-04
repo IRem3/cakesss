@@ -183,7 +183,7 @@
  },
  {
    "name": "Kersenslof",
-   "category": "!Nieuw",
+   "category": "Slof",
    "baketime": "150 min",
    "expert": "Medium",
    "id": 1015,
@@ -193,5 +193,18 @@
    "imageName": "kersenslof",
    "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 losgeklopt ei\n\rBanketbakkersroom:\n- 65 gram kristalsuiker\n- 16 gram vanillesuiker\n- 3 eidooiers\n- 35 gram bloem\n- 350 ml volle melk\n\rGarnering:\n- 1/2 blik kersen vlaaivulling\n- 1 blokje witte chocolade",
    "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout met de keukenmachine tot een romig mengsel.\n2. Voeg de 140 gram bloem en het bakpoeder aan het mengsel toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, de 50 gram kristalsuiker en het halve ei met elkaar in een kom.\n5. Kneed het geheel met je handen tot een bol, verpak het in huishoudfolie en leg het in de koelkast.\n6. Mix voor de banketbakkersroom de 65 gram kristalsuiker, vanillesuiker en 3 eidooiers met een garde.\n7. Mix de 35 gram bloem hier doorheen, totdat het helemaal is opgenomen.\n8. Breng de volle melk in een steelpan aan de kook.\n9. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n10. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n11. Blijf roeren en laat het ongeveer 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n12. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n13. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n13. Haal het deeg en de amandelspijs na minstens 60 minuten uit de koelkast.\n14. Leg het deeg op het bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenvorm past.\n15. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n16. Verdeel de amandelspijs (spuitzak) over de bodem (maak indien nodig gebruik van wat extra ei) en zorg dat er 1 cm van de rand vrij wordt gehouden.\n17. Bak de slof 22 minuten in een voorverwarmde oven met boven- en onderwarmte op 180 graden.\n18. Haal de goudbruine slof na 22 minuten uit de oven, verwijder de sloffenring en laat de slof volledig afkoelen.\n19. Spuit de volledig afgekoelde banketbakkersroom zigzaggend op de sloffenbodem.\n20. Verdeel de kersen vlaaivulling over het midden van de slof.\n21. Rasp het blokje witte chocolade en decoreer de kersenslof. "
+ },
+ {
+   "name": "Rijsttaart",
+   "category": "!Nieuw",
+   "baketime": "60 min ",
+   "expert": "Easy",
+   "id": 1016,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "rijsttaart",
+   "ingredients": "Rijsttaart:\n- 4 plakken bladerdeeg (bevroren)\n- 1 ei\n- 200 gram kant-en-klaar rijstdessert\n- 20 gram kristalsuiker\n- 20 gram bloem\n\rGarnering:\n- 100 ml slagroom\n- 1,5 el kristalsuiker\n- 1 zakje klopfix\n- 2 blokjes melkchocolade",
+   "recipe": "1. Verwarm de oven voor op 210 graden (onder- en bovenwarmte).\n2. Ontdooi de plakken bladerdeeg in 10 minuten.\n3. Bekleed de bakvorm (15 cm doorsnede) met bakpapier.\n4. Splits het ei.\n5. Meng het rijstdessert, de 20 gram kristalsuiker, de bloem en de eidooier.\n6. Klop het eiwit luchtig en spatel dit rustig door het rijstmengsel.\n7. Verbind de 4 ontdooide plakken bladerdeeg met elkaar, door deze in een vierkant (2x2) te leggen en de overlappende randen met een vork aan te drukken.\n8. Snijd een cirkel met een doorsnede van 18 cm uit het bladerdeeg en leg dit in de, met bakpapier beklede, bakvorm.\n9. Giet het rijstmengsel in de bakvorm.\n10. Bak de rijsttaart 25 minuten in de voorverwarmde oven op 210 graden (onder- en bovenwarmte).\n11. Klop de slagroom, 1,5 el kristalsuiker en klopfix stijf.\n12. Vul een spuitzak met slagroom en leg dit in de koelkast.\n13. Rasp de melkchocolade in dunne reepjes.\n14. Wanneer de rijsttaart na 25 minuten gaar is, laat je hem volledig afkoelen.\n15. Spuit toeven slagroom op de gehele bovenkant van de rijsttaart en decoreer deze met de dunne reepjes chocolade. "
  }
 ]
