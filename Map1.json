@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "!Nieuw",
+   "category": "Slof",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
@@ -219,5 +219,18 @@
    "imageName": "karamelslof",
    "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 losgeklopt ei\n\rDulce de leche:\n- 1/2 blikje gecondenseerde melk\n- 30 gram ongezouten roomboter\n- 2 el donkerbruine basterdsuiker\n\rKaramelroom:\n- 250 ml slagroom\n- 65 gram kristalsuiker\n- 20 ml water\n- 1 zakje klopfix\n\rGarnering:\n- nougatine\n- 2 rollen rolo\n- 4 blokjes melkchocolade",
    "recipe": "Opmerking: De karamelroom, het sloffendeeg en het amandelspijs kunnen het beste een dag van tevoren worden gemaakt.\n\r1. Verwarm de slagroom in een steelpan.\n2. Breng ondertussen het water en de kristalsuiker in een hogere pan aan de kook.\n3. Karamelliseer de suiker door het water en de kristalsuiker, zonder te roeren, door te laten koken. Eventueel kan er af en toe worden bewogen met de pan.\n4. Voeg de warme slagroom toe aan de karamel en roer totdat de slagroom volledig is opgenomen.\n5. Bedek de karamelroom met huishoudfolie en zet het minimaal 12 uur in de koelkast.\n6. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout met de keukenmachine tot een romig mengsel.\n7. Voeg de 140 gram bloem en het bakpoeder aan het mengsel toe en meng dit tot een mooi deeg.\n8. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n9. Meng voor de amandelspijs het amandelmeel, de 50 gram kristalsuiker en het halve ei met elkaar in een kom.\n10. Kneed het geheel met je handen tot een bol, verpak het in huishoudfolie en leg het in de koelkast.\n11. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n12. Haal het deeg en de amandelspijs na minstens 60 minuten uit de koelkast.\n13. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenring past.\n14. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n15. Verdeel de amandelspijs (spuitzak) over de bodem (maak indien nodig gebruik van wat extra ei) en zorg dat er 1 cm van de rand vrij wordt gehouden.\n16. Bak de slof 22 minuten in een voorverwarmde oven met boven- en onderwarmte op 180 graden.\n17. Maak ondertussen de dulce de leche door 30 gram ongezouten roomboter in een steelpan te verwarmen.\n18. Meng hier de donkerbruine basterdsuiker en gecondenseerde melk doorheen.\n19. Blijf roeren en breng het geheel aan de kook.\n20. Laat het zo'n 5 minuten doorkoken, totdat de dulce de leche dik genoeg is.\n21. Haal de goudbruine slof na 22 minuten uit de oven, verwijder de sloffenring en laat de slof volledig afkoelen.\n22. Verdeel de dulce de leche over de sloffenbodem en laat het afkoelen.\n23. Haal de karamelroom na minimaal 12 uur uit de koelkast en klop de room samen met de klopfix stijf.\n24. Vul een spuitzak met de karamelroom en spuit toeven op de slof.\n25. Smelt de melkchocolade au bain-marie.\n26. Vul een spuitzak met de gesmolten chocolade en laat het een paar minuten afkoelen.\n27. Decoreer de slof met nougatine, stukjes rolo en de gesmolten chocolade."
+ },
+ {
+   "name": "Boterkoek",
+   "category": "!Nieuw",
+   "baketime": "30 min",
+   "expert": "Easy",
+   "id": 1018,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "boterkoek",
+   "ingredients": "- 75 gram ongezouten roomboter\n- 37 gram witte basterdsuiker\n- 38 gram kristalsuiker\n- 4 gram vanillesuiker\n- 1 ei (1/2 deeg, 1/2 bestrijken)\n- 90 gram bloem\n- snuf zout",
+   "recipe": "1. Verwarm de oven voor op 190 graden (onder- en bovenwarmte).\n2. Bekleed de bodem en randen van de bakvorm (doorsnede 15 cm) met bakpapier.\n3. Meng de ongezouten roomboter, witte basterdsuiker, kristalsuiker en vanillesuiker tot een romig geheel.\n4. Meng het halve ei door het mengsel.\n5. Voeg de bloem en een snuf zout toe en meng tot een mooi deeg.\n6. Verdeel het deeg over de bodem en druk het aan met de bolle kant van een lepel.\n7. Bestrijk het deeg met het andere (opgeklopte) halve ei en maak een ruitmotief met een vork.\n8. Bak de boterkoek in 20 minuten gaar in de voorverwarmde oven op 190 graden.\n9. Laat de boterkoek volledig afkoelen voordat het uit de vorm kan worden gehaald."
  }
 ]
