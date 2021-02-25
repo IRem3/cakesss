@@ -222,7 +222,7 @@
  },
  {
    "name": "Boterkoek",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1018,
@@ -232,5 +232,18 @@
    "imageName": "boterkoek",
    "ingredients": "- 75 gram ongezouten roomboter\n- 37 gram witte basterdsuiker\n- 38 gram kristalsuiker\n- 4 gram vanillesuiker\n- 1 ei (1/2 deeg, 1/2 bestrijken)\n- 90 gram bloem\n- snuf zout",
    "recipe": "1. Verwarm de oven voor op 190 graden (onder- en bovenwarmte).\n2. Bekleed de bodem en randen van de bakvorm (doorsnede 15 cm) met bakpapier.\n3. Meng de ongezouten roomboter, witte basterdsuiker, kristalsuiker en vanillesuiker tot een romig geheel.\n4. Meng het halve ei door het mengsel.\n5. Voeg de bloem en een snuf zout toe en meng tot een mooi deeg.\n6. Verdeel het deeg over de bodem en druk het aan met de bolle kant van een lepel.\n7. Bestrijk het deeg met het andere (opgeklopte) halve ei en maak een ruitmotief met een vork.\n8. Bak de boterkoek in 20 minuten gaar in de voorverwarmde oven op 190 graden.\n9. Laat de boterkoek volledig afkoelen voordat het uit de vorm kan worden gehaald."
+ },
+ {
+   "name": "Marmercake",
+   "category": "!Nieuw",
+   "baketime": "30 min",
+   "expert": "Easy",
+   "id": 1019,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "marmercake",
+   "ingredients": "- 200 gram ongezouten roomboter\n- 200 gram kristalsuiker\n- 4 eieren\n- 1 tl vanille-extract\n- 220 gram zelfrijzend bakmeel\n- snuf zout\n- 2 el cacaopoeder\n- 30 ml volle melk",
+   "recipe": "1. Verwarm de oven voor op 175 graden (onder- en bovenwarmte).\n2. Mix de roomboter en kristalsuiker tot een romig geheel.\n3. Voeg de eieren één voor één toe, totdat alles volledig is opgenomen.\n4. Meng het vanille-extract door het mengsel.\n5. Voeg het zelfrijzend bakmeel en een snuf zout toe en mix tot het volledig is opgenomen.\n6. Leg 2/3 deel (ongeveer 550 gram) van het vanillebeslag in een aparte kom.\n7. Meng de cacaopoeder en de melk in een kom en meng dit door het overige (1/3 deel) vanille cakebeslag. Het is nu chocolade cakebeslag.\n8. Vet een cakevorm in en bestrooi dit met wat bloem.\n9. Giet eerst de helft (ongeveer 275 gram) van het vanille cakebeslag in de cakevorm, daar bovenop het chocolade cakebeslag en ten slotte de andere helft van het vanille cakebeslag.\n10. Roer met een mes door het beslag, zodat er een marmervorm in het deeg ontstaat.\n11. Bak de cake in 60 minuten gaar in de voorverwarmde oven op 175 graden (onder- en bovenwarmte).\n12. Laat de cake 3 minuten afkoelen in het cakeblik.\n13. Verwijder het cakeblik en laat de cake volledig afkoelen op een taartrooster."
  }
 ]
