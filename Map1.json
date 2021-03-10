@@ -248,7 +248,7 @@
  },
  {
    "name": "Lemon curd\nMonChoutaart",
-   "category": "!Nieuw",
+   "category": "Taart",
    "baketime": "90 min",
    "expert": "Easy",
    "id": 1020,
@@ -258,5 +258,18 @@
    "imageName": "lemoncurdmonchoutaart",
    "ingredients": "Bodem:\n- 130 gram Bastogne koeken\n- 50 gram ongezouten roomboter\n\rMonChou vulling:\n- 150 ml slagroom\n- 8 gram vanillesuiker\n- 100 gram MonChou\n- 50 gram witte basterdsuiker\n\rLemon curd:\n- 1 citroen\n- 40 gram ongezouten roomboter\n- 1 ei\n- 75 gram kristalsuiker",
    "recipe": "1. Rasp en pers de citroen.\n2. Smelt de 40 gram ongezouten roomboter in de magnetron.\n3. Meng het ei, de kristalsuiker, de citroenrasp en het citroensap met elkaar.\n4. Voeg dit mengsel toe aan de gesmolten roomboter en roer het door elkaar.\n5. Verwarm het mengsel 5 minuten in de magnetron (900 Watt) en roer het ondertussen een aantal keren door.\n6. Zeef de lemon curd en laat het volledig afkoelen.\n7. Maal de Bastogne koeken fijn.\n8. Verwarm de 50 gram ongezouten roomboter in een steelpan, totdat het is gesmolten.\n9. Voeg de fijn gemalen Bastogne koeken hieraan toe en meng het met elkaar.\n10. Bekleed de bodems van 2 kleine springvormen (12 cm doorsnede) met bakpapier.\n11. Verdeel het koekmengsel over de 2 springvormen en druk het aan met de bolle kant van de lepel.\n12. Laat het afkoelen in de koelkast.\n13. Klop de slagroom en vanillesuiker stijf.\n14. Meng de MonChou en witte basterdsuiker in een andere kom tot een romig geheel.\n15. Voeg de opgeklopte slagroom hieraan toe en mix het kort met elkaar.\n16. Roer hier 1 el afgekoelde lemon curd doorheen en verdeel het over de 2 bakvormen.\n17. Laat de taarten minimaal 2 uur in de koelkast opstijven.\n18. Verdeel de overige lemon curd over de 2 taarten.\n19. Verwijder de springvormen (tip: snijd voor het verwijderen eerst langs de rand)."
+ },
+ {
+   "name": "Aardbeienschelp",
+   "category": "!Nieuw",
+   "baketime": "60 min",
+   "expert": "Medium",
+   "id": 1021,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "6 stuks",
+   "imageName": "aardbeienschelp",
+   "ingredients": "Schelpen:\n- 6 plakjes bladerdeeg (diepvries)\n- 1 ei\n- kristalsuiker\n\rBanketbakkersroom:\n- 65 gram kristalsuiker\n- 16 gram vanillesuiker\n- 3 eidooiers\n- 35 gram bloem\n- 350 ml volle melk\n\rGarnering:\n- 400 gram aardbeien\n- 100 ml slagroom\n- 1,5 el kristalsuiker\n- 1/2 zakje klopfix",
+   "recipe": "1. Mix voor de banketbakkersroom de 65 gram kristalsuiker, vanillesuiker en 3 eidooiers met een garde.\n2. Mix de 35 gram bloem hier doorheen, totdat het helemaal is opgenomen.\n3. Breng de volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het ongeveer 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Ontdooi de plakjes bladerdeeg.\n9. Verwarm de oven voor op 200 graden (onder- en bovenwarmte).\n10. Knip 6 rondjes (doorsnede van 10 cm) uit een vel bakpapier en snijd uit elk plakje bladerdeeg een rondje van 10 cm.\n11. Leg de bladerdeegrondjes op de rondjes bakpapier.\n12. Kluts het ei, smeer de bladerdeegrondjes hiermee in en bestrooi ze met kristalsuiker.\n13. Keer 2 cupcake bakblikken van 6 stuks om en leg hier per bakblik 3 bladerdeegrondjes om en om op.\n14. Druk deze aan, zodat ze mooi om de vormen heen sluiten en de vorm van een schelp krijgen.\n15. Bak de schelpen in 13 minuten in een voorverwarmde oven met boven- en onderwarmte op 200 graden.\n16. Laat de schelpen volledig afkoelen.\n17. Klop de slagroom, 1,5 el kristalsuiker en klopfix stijf.\n18. Maak de aardbeien schoon en snijd ze in stukjes.\n19. Spuit de volledig afgekoelde banketbakkersroom in de schelpen.\n20. Decoreer de schelpen met de stukjes aardbei en een toef slagroom."
  }
 ]
