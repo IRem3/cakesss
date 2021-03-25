@@ -274,7 +274,7 @@
  },
  {
    "name": "Mango cakerol",
-   "category": "!Nieuw",
+   "category": "Cake",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1022,
@@ -284,5 +284,18 @@
    "imageName": "mangocakerol",
    "ingredients": "Biscuit:\n- 4 eieren\n- 120 gram kristalsuiker\n- 1 tl vanille-extract\n- 100 gram bloem\n- 30 gram Maizena\n\rMango mascarponeroom:\n- 150 ml slagroom\n- 24 gram vanillesuiker\n- 250 gram mascarpone\n- poedersuiker (naar smaak)\n- 1 mango\n\rGarnering:\n- poedersuiker\n- 50 ml slagroom\n- 2 tl kristalsuiker\n- stukjes mango",
    "recipe": "1. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n2. Klop de eieren, 120 gram kristalsuiker en het vanille-extract in 5 minuten luchtig.\n3. Zeef de bloem en Maizena en spatel dit rustig door het mengsel.\n4. Bekleed een bakplaat met bakpapier en verdeel het biscuitbeslag hier gelijkmatig over.\n5. Bak de biscuit in 11 minuten gaar in de voorverwarmde oven.\n6. Besprenkel een theedoek royaal met poedersuiker.\n7. Laat de biscuit wat afkoelen en leg het met de bovenkant op de theedoek.\n8. Verwijder het bakpapier van de biscuit en rol de theedoek met de biscuit op.\n9. Laat de opgerolde biscuit helemaal afkoelen.\n10. Klop de 150 ml slagroom met vanillesuiker stijf.\n11. Roer de mascarpone wat los en meng de slagroom en poedersuiker hier doorheen.\n12. Snijd de mango in kleine stukjes en houd wat apart voor de garnering.\n13. Klop de 50 ml slagroom en 2 tl kristalsuiker stijf.\n14. Rol de biscuit, wanneer deze helemaal is afgekoeld, weer terug en bestrijk deze met de mascarponeroom en stukjes mango.\n15. Rol de biscuit weer rustig op.\n16. Decoreer de mango cakerol met poedersuiker, slagroom en stukjes mango."
+ },
+ {
+   "name": "Vruchtenslof",
+   "category": "!Nieuw",
+   "baketime": "120 min",
+   "expert": "Medium",
+   "id": 1023,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "vruchtenslof",
+   "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rBanketbakkersroom:\n- 65 gram kristalsuiker\n- 16 gram vanillesuiker\n- 3 eidooiers\n- 35 gram bloem\n- 350 ml volle melk\n\rGarnering:\n- fruit: aardbeien, druiven, mandarijn, appel, kiwi",
+   "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout met de keukenmachine tot een romig mengsel.\n2. Voeg de 140 gram bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, de 50 gram kristalsuiker en het halve ei met elkaar in een kom.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en leg het in de koelkast.\n6. Mix voor de banketbakkersroom de 65 gram kristalsuiker, vanillesuiker en 3 eidooiers met een garde.\n7. Mix de 35 gram bloem hier doorheen, totdat het helemaal is opgenomen.\n8. Breng de volle melk in een steelpan aan de kook.\n9. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n10. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n11. Blijf roeren en laat het ongeveer 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n12. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n13. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n14. Haal het deeg en de amandelspijs na minstens 60 minuten uit de koelkast.\n15. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenvorm past.\n16. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n17. Verdeel de amandelspijs (spuitzak) over de bodem (maak indien nodig gebruik van wat extra ei) en zorg dat er 1 cm van de rand vrij wordt gehouden.\n18. Bak de slof 22 minuten in de voorverwarmde oven goudbruin.\n19. Verwijder de sloffenring en laat de slof volledig afkoelen.\n20. Spuit de volledig afgekoelde banketbakkersroom op de sloffenbodem.\n21. Maak het fruit schoon en snijd het in stukjes.\n22. Decoreer de slof met de stukjes fruit."
  }
 ]
