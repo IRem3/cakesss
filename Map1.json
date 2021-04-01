@@ -287,7 +287,7 @@
  },
  {
    "name": "Vruchtenslof",
-   "category": "!Nieuw",
+   "category": "Slof",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1023,
@@ -297,5 +297,18 @@
    "imageName": "vruchtenslof",
    "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rBanketbakkersroom:\n- 65 gram kristalsuiker\n- 16 gram vanillesuiker\n- 3 eidooiers\n- 35 gram bloem\n- 350 ml volle melk\n\rGarnering:\n- fruit: aardbeien, druiven, mandarijn, appel, kiwi",
    "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout met de keukenmachine tot een romig mengsel.\n2. Voeg de 140 gram bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, de 50 gram kristalsuiker en het halve ei met elkaar in een kom.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en leg het in de koelkast.\n6. Mix voor de banketbakkersroom de 65 gram kristalsuiker, vanillesuiker en 3 eidooiers met een garde.\n7. Mix de 35 gram bloem hier doorheen, totdat het helemaal is opgenomen.\n8. Breng de volle melk in een steelpan aan de kook.\n9. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n10. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n11. Blijf roeren en laat het ongeveer 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n12. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n13. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n14. Haal het deeg en de amandelspijs na minstens 60 minuten uit de koelkast.\n15. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenvorm past.\n16. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n17. Verdeel de amandelspijs (spuitzak) over de bodem (maak indien nodig gebruik van wat extra ei) en zorg dat er 1 cm van de rand vrij wordt gehouden.\n18. Bak de slof 22 minuten in de voorverwarmde oven goudbruin.\n19. Verwijder de sloffenring en laat de slof volledig afkoelen.\n20. Spuit de volledig afgekoelde banketbakkersroom op de sloffenbodem.\n21. Maak het fruit schoon en snijd het in stukjes.\n22. Decoreer de slof met de stukjes fruit."
+ },
+ {
+   "name": "Bokkenpootjes\ntaart",
+   "category": "!Nieuw",
+   "baketime": "45 min",
+   "expert": "Easy",
+   "id": 1024,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "bokkenpootjestaart",
+   "ingredients": "- 130 gram Bastogne koeken\n- 50 gram ongezouten roomboter\n- 200 gram bokkenpootjes\n- 200 ml slagroom\n- 1 zakje klopfix\n- 1/2 pakje kloppudding vanille\n- 100 ml volle melk",
+   "recipe": "1. Maal de Bastogne koeken fijn.\n2. Verwarm de 50 gram ongezouten roomboter in een steelpan, totdat het gesmolten is.\n3. Voeg de fijn gemalen Bastogne koeken hieraan toe en meng het door elkaar.\n4. Bekleed de bodem van een springvorm (15 cm doorsnede) met bakpapier.\n5. Verdeel het koekmengsel over de springvorm en druk het aan met de bolle kant van de lepel.\n6. Laat het koekmengsel afkoelen in de koelkast.\n7. Klop de slagroom met de klopfix stijf.\n8. Klop de kloppudding met de melk in 1 minuut tot pudding.\n9. Meng deze pudding door de slagroom.\n10. Snijd de bokkenpootjes, in de lengte, doormidden.\n11. Haal de springvorm uit de koelkast en plaats de halve bokkenpootjes, in de lengte en met de bolle kant naar buiten, tegen de rand van de springvorm.\n12. Snijd de overige bokkenpootjes in stukjes en meng de helft door de room.\n13. Giet het mengsel in de springvorm.\n14. Decoreer de taart met de overige stukjes bokkenpootjes.\n15. Laat de taart minimaal 3 uur opstijven in de koelkast."
  }
 ]
