@@ -300,7 +300,7 @@
  },
  {
    "name": "Bokkenpootjes\ntaart",
-   "category": "!Nieuw",
+   "category": "Taart",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1024,
@@ -310,5 +310,18 @@
    "imageName": "bokkenpootjestaart",
    "ingredients": "- 130 gram Bastogne koeken\n- 50 gram ongezouten roomboter\n- 200 gram bokkenpootjes\n- 200 ml slagroom\n- 1 zakje klopfix\n- 1/2 pakje kloppudding vanille\n- 100 ml volle melk",
    "recipe": "1. Maal de Bastogne koeken fijn.\n2. Verwarm de 50 gram ongezouten roomboter in een steelpan, totdat het gesmolten is.\n3. Voeg de fijn gemalen Bastogne koeken hieraan toe en meng het door elkaar.\n4. Bekleed de bodem van een springvorm (15 cm doorsnede) met bakpapier.\n5. Verdeel het koekmengsel over de springvorm en druk het aan met de bolle kant van de lepel.\n6. Laat het koekmengsel afkoelen in de koelkast.\n7. Klop de slagroom met de klopfix stijf.\n8. Klop de kloppudding met de melk in 1 minuut tot pudding.\n9. Meng deze pudding door de slagroom.\n10. Snijd de bokkenpootjes, in de lengte, doormidden.\n11. Haal de springvorm uit de koelkast en plaats de halve bokkenpootjes, in de lengte en met de bolle kant naar buiten, tegen de rand van de springvorm.\n12. Snijd de overige bokkenpootjes in stukjes en meng de helft door de room.\n13. Giet het mengsel in de springvorm.\n14. Decoreer de taart met de overige stukjes bokkenpootjes.\n15. Laat de taart minimaal 3 uur opstijven in de koelkast."
+ },
+ {
+   "name": "Arretjesplaatcake",
+   "category": "!Nieuw",
+   "baketime": "20 min",
+   "expert": "Easy",
+   "id": 1025,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "arretjesplaatcake",
+   "ingredients": "- 200 gram ongezouten roomboter\n- 200 gram witte basterdsuiker\n- 8 gram vanillesuiker\n- 50 gram cacao\n- 2 eieren\n- 200 gram Maria biscuits",
+   "recipe": "1. Smelt de ongezouten roomboter in een steelpan.\n2. Meng de witte basterdsuiker, vanillesuiker, cacao en eieren door elkaar.\n3. Voeg de gesmolten roomboter hieraan toe en meng totdat alles is opgenomen.\n4. Maal de Maria biscuits fijn.\n5. Roer de biscuits door het mengsel.\n6. Bekleed een bakvorm (20x20 cm) met 5 lagen huishoudfolie.\n7. Giet het mengsel in de bakvorm en druk het stevig aan.\n8. Bedek de bovenkant met huishoudfolie en zet het minimaal 3 uur in de koelkast.\n9. Haal de plaatcake na 3 uur uit de vorm en verwijder de huishoudfolie. "
  }
 ]
