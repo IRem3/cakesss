@@ -313,7 +313,7 @@
  },
  {
    "name": "Arretjesplaatcake",
-   "category": "!Nieuw",
+   "category": "Cake",
    "baketime": "20 min",
    "expert": "Easy",
    "id": 1025,
@@ -323,5 +323,18 @@
    "imageName": "arretjesplaatcake",
    "ingredients": "- 200 gram ongezouten roomboter\n- 200 gram witte basterdsuiker\n- 8 gram vanillesuiker\n- 50 gram cacao\n- 2 eieren\n- 200 gram Maria biscuits",
    "recipe": "1. Smelt de ongezouten roomboter in een steelpan.\n2. Meng de witte basterdsuiker, vanillesuiker, cacao en eieren door elkaar.\n3. Voeg de gesmolten roomboter hieraan toe en meng totdat alles is opgenomen.\n4. Maal de Maria biscuits fijn.\n5. Roer de biscuits door het mengsel.\n6. Bekleed een bakvorm (20x20 cm) met 5 lagen huishoudfolie.\n7. Giet het mengsel in de bakvorm en druk het stevig aan.\n8. Bedek de bovenkant met huishoudfolie en zet het minimaal 3 uur in de koelkast.\n9. Haal de plaatcake na 3 uur uit de vorm en verwijder de huishoudfolie. "
+ },
+ {
+   "name": "Roomhoorn",
+   "category": "!Nieuw",
+   "baketime": "60 min",
+   "expert": "Medium",
+   "id": 1026,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "4 stuks",
+   "imageName": "roomhoorn",
+   "ingredients": "Hoorntjes:\n- 4 plakjes bladerdeeg\n- 1 ei\n- kristalsuiker\n\rBanketbakkersroom:\n- 45 gram kristalsuiker\n- 10 gram vanillesuiker\n- 2 eidooiers\n- 25 gram bloem\n- 240 ml volle melk",
+   "recipe": "1. Mix voor de banketbakkersroom de 45 gram kristalsuiker, vanillesuiker en 2 eidooiers met een garde.\n2. Voeg de 25 gram bloem hieraan toe en mix, totdat het helemaal is opgenomen.\n3. Breng de volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Ontdooi de plakjes bladerdeeg.\n9. Verwarm de oven voor op 200 graden (onder- en bovenwarmte).\n10. Leg de plakken bladerdeeg op elkaar, bestrooi ze met wat bloem en rol het bladerdeeg uit tot een lange plak van 40 cm.\n11. Snijd de plak bladerdeeg in 4 lange stroken van 2,5x40 cm.\n12. Vet de buitenkant van 4 roomhoornpennen in en wikkel de stroken bladerdeeg om de pennen. Begin bij de punt en wikkel naar boven, waarbij er een overlap is bij de helft van de strook.\n13. Kluts het ei, smeer de hoorntjes hiermee in en bestrooi ze aan de bovenkant (het uiteinde van de strook bladerdeeg is onderop) met kristalsuiker.\n14. Bak de hoorntjes 17 minuten in de voorverwarmde oven.\n15. Haal de pennen uit de hoorntjes en bak ze nog 10 minuten in de oven op 170 graden (onder- en bovenwarmte).\n16. Laat de hoorntjes volledig afkoelen.\n17. Vul de hoorntjes met de volledig afgekoelde banketbakkersroom."
  }
 ]
