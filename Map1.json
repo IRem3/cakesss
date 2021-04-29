@@ -339,7 +339,7 @@
  },
  {
    "name": "Sinaasappelcake",
-   "category": "!Nieuw",
+   "category": "Cake",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1027,
@@ -349,5 +349,18 @@
    "imageName": "sinaasappelcake",
    "ingredients": "Cake:\n- 150 gram ongezouten roomboter\n- 120 gram kristalsuiker\n- 8 gram vanillesuiker\n- snuf zout\n- 1 sinaasappel\n- 3 eieren\n- 175 gram zelfrijzend bakmeel\n\rGlazuur:\n- 50 gram poedersuiker\n- 2 tl sinaasappelsap",
    "recipe": "1. Verwarm de oven voor op 175 graden (onder- en bovenwarmte).\n2. Rasp de sinaasappel.\n3. Pers de sinaasappel uit.\n4. Mix de ongezouten roomboter, kristalsuiker, vanillesuiker en snuf zout tot een romig geheel.\n5. Voeg de eieren achtereenvolgens toe aan het mengsel, totdat alles is opgenomen.\n6. Meng 2 el sinaasappelsap en 2/3 deel van de sinaasappelrasp door het mengsel.\n7. Vet een ronde bakvorm (15 cm doorsnede) in en bestrooi het met bloem.\n8. Giet het beslag in de bakvorm.\n9. Bak de sinaasappelcake in 50 minuten gaar.\n10. Laat de cake volledig afkoelen op een rooster.\n11. Meng voor het glazuur de poedersuiker met 2 tl sinaasappelsap.\n12. Verdeel het glazuur en de overgebleven sinaasappelrasp over de afgekoelde cake.\n13. Laat het glazuur hard worden."
+ },
+ {
+   "name": "Tompouce",
+   "category": "!Nieuw",
+   "baketime": "90 min",
+   "expert": "Medium",
+   "id": 1028,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "4 stuks",
+   "imageName": "tompouce",
+   "ingredients": "- 45 gram kristalsuiker\n- 10 gram vanillesuiker\n- 2 eidooiers\n- 25 gram bloem\n- 240 ml volle melk\n- 150 ml slagroom\n- 4 plakken bladerdeeg (bevroren)\n- 25 gram poedersuiker\n- 1 tl bietensap\n- 50 ml slagroom\n- 1 el kristalsuiker",
+   "recipe": "1. Meng de 45 gram kristalsuiker, vanillesuiker en 2 eidooiers met een garde.\n2. Voeg de 25 gram bloem hieraan toe en mix, totdat het volledig is opgenomen.\n3. Breng de volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat het volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het ongeveer 3 minuten zachtjes doorkoken, totdat het dikker wordt (vanaf nu is het banketbakkersroom).\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Klop de 150 ml slagroom stijf.\n9. Roer de afgekoelde banketbakkersroom wat los en meng de slagroom hier doorheen (vanaf nu is het Zwitserse room).\n10. Plaats de Zwitserse room in de koelkast en laat deze opstijven.\n11. Verwarm de oven voor op 220 graden (boven- en onderwarmte).\n12. Ontdooi de 4 plakjes bladerdeeg.\n13. Snijd de plakjes bladerdeeg doormidden en prik er gaatjes in.\n14. Leg de 8 plakjes bladerdeeg op een, met bakpapier beklede, bakplaat en bak ze 15 minuten in de voorverwarmde oven.\n15. Laat de plakjes bladerdeeg volledig afkoelen op een taartrooster.\n16. Roer een tl bietensap door de poedersuiker, zodat het glazuur wordt.\n17. Klop 50 ml slagroom met 1 el kristalsuiker stijf.\n18. Vul een spuitzak met Zwitserse room en een met opgeklopte slagroom.\n19. Spuit banen Zwitserse room op 4 afgekoelde plakjes bladerdeeg.\n20. Bestrijk de 4 andere plakjes bladerdeeg met glazuur en plaats deze bovenop de Zwitserse room.\n21. Strijk de zijkanten van de tompouce glad en spuit er een baan slagroom op."
  }
 ]
