@@ -352,7 +352,7 @@
  },
  {
    "name": "Tompouce",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "90 min",
    "expert": "Medium",
    "id": 1028,
@@ -362,5 +362,18 @@
    "imageName": "tompouce",
    "ingredients": "- 45 gram kristalsuiker\n- 10 gram vanillesuiker\n- 2 eidooiers\n- 25 gram bloem\n- 240 ml volle melk\n- 150 ml slagroom\n- 4 plakken bladerdeeg (bevroren)\n- 25 gram poedersuiker\n- 1 tl bietensap\n- 50 ml slagroom\n- 1 el kristalsuiker",
    "recipe": "1. Meng de 45 gram kristalsuiker, vanillesuiker en 2 eidooiers met een garde.\n2. Voeg de 25 gram bloem hieraan toe en mix, totdat het volledig is opgenomen.\n3. Breng de volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat het volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het ongeveer 3 minuten zachtjes doorkoken, totdat het dikker wordt (vanaf nu is het banketbakkersroom).\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Klop de 150 ml slagroom stijf.\n9. Roer de afgekoelde banketbakkersroom wat los en meng de slagroom hier doorheen (vanaf nu is het Zwitserse room).\n10. Plaats de Zwitserse room in de koelkast en laat deze opstijven.\n11. Verwarm de oven voor op 220 graden (boven- en onderwarmte).\n12. Ontdooi de 4 plakjes bladerdeeg.\n13. Snijd de plakjes bladerdeeg doormidden en prik er gaatjes in.\n14. Leg de 8 plakjes bladerdeeg op een, met bakpapier beklede, bakplaat en bak ze 15 minuten in de voorverwarmde oven.\n15. Laat de plakjes bladerdeeg volledig afkoelen op een taartrooster.\n16. Roer een tl bietensap door de poedersuiker, zodat het glazuur wordt.\n17. Klop 50 ml slagroom met 1 el kristalsuiker stijf.\n18. Vul een spuitzak met Zwitserse room en een met opgeklopte slagroom.\n19. Spuit banen Zwitserse room op 4 afgekoelde plakjes bladerdeeg.\n20. Bestrijk de 4 andere plakjes bladerdeeg met glazuur en plaats deze bovenop de Zwitserse room.\n21. Strijk de zijkanten van de tompouce glad en spuit er een baan slagroom op."
+ },
+ {
+   "name": "Chocoladebol",
+   "category": "!Nieuw",
+   "baketime": "60 min",
+   "expert": "Hard",
+   "id": 1029,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "5 stuks",
+   "imageName": "chocoladebol",
+   "ingredients": "- 50 ml volle melk\n- 50 ml water\n- 50 gram ongezouten roomboter\n- snuf zout\n- 50 gram bloem\n- 2 eieren\n- 500 ml slagroom\n- 6 el kristalsuiker\n- 2 zakjes klopfix\n- 50 gram poedersuiker\n- 100 gram pure chocolade\n- 1 mandarijn",
+   "recipe": "1. Verwarm de oven voor op 210 graden (onder- en bovenwarmte).\n2. Breng de volle melk, het water, de ongezouten roomboter en een snuf zout aan de kook in een steelpan.\n3. Zeef de bloem.\n4. Haal de steelpan van het vuur, wanneer het mengsel kookt. Voeg de gezeefde bloem hieraan toe en meng, totdat de bloem helemaal is opgenomen.\n5. Zet de steelpan terug op het vuur en laat het deeg, al roerende, 3 minuten doorkoken.\n6. Laat het deeg een paar minuten afkoelen in een kom, voeg het eerste ei toe en roer totdat het ei volledig is opgenomen.\n7. Voeg het tweede ei toe en roer, totdat het volledig is opgenomen.\n8. Vul een spuitzak met het soezenbeslag en spuit 5 rondjes/bolletjes op een met bakpapier beklede bakplaat.\n9. Bak de soezen 22 minuten in de voorverwarmde oven.\n10. Klop 450 ml slagroom, de kristalsuiker en klopfix in een kom stijf.\n11. Vul een spuitzak met de slagroom en bewaar het in de koelkast.\n12. Meng 50 ml slagroom, 50 gram poedersuiker en 100 gram pure chocolade.\n13. Smelt het mengsel au bain-marie.\n14. Haal de soezen na 22 minuten uit de oven (goudbruin), prik gaatjes in de onderkant en bak ze vervolgens nog 3 minuten in de oven.\n15. Laat de soezen volledig afkoelen en vul ze met slagroom.\n16. Bestrijk de soezen met de gesmolten chocolade en laat ze afkoelen in de koelkast.\n17. Decoreer de chocoladebollen met een toef slagroom en een mandarijnpartje."
  }
 ]
