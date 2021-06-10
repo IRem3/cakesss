@@ -417,7 +417,7 @@
  },
  {
    "name": "Bolgebak aardbei",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "180 min",
    "expert": "Hard",
    "id": 1033,
@@ -427,5 +427,18 @@
    "imageName": "bolgebakaardbei",
    "ingredients": "Bodem (sloffendeeg met amandelspijs):\n- 45 gram ongezouten roomboter\n- 38 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 70 gram bloem\n- 1/2 tl bakpoeder\n- 25 gram amandelmeel\n- 25 gram kristalsuiker\n\rAardbeienbavarois:\n- 100 gram aardbeien\n- 100 ml slagroom\n- 25 gram kristalsuiker\n- 1,5 blaadje gelatine\n\rGlacage:\n- 4 blaadjes gelatine\n- 50 gram aardbeien\n- 75 gram witte chocolade\n- 40 ml water\n- 110 gram kristalsuiker\n- 50 gram gecondenseerde melk ",
    "recipe": "1. Week 1,5 blaadje gelatine 10 minuten in koud water.\n2. Pureer 100 gram aardbeien.\n3. Klop de slagroom en 25 gram kristalsuiker tot yoghurtdikte.\n4. Verwarm 4 el gepureerde aardbei in een steelpan.\n5. Knijp de gelatineblaadjes uit en los ze op in de warme aardbeienpuree.\n6. Voeg de warme puree toe aan de overgebleven koude aardbeienpuree.\n7. Spatel de aardbeienpuree door de slagroom.\n8. Vul een 6 halve bollen siliconen bakvorm (boldoorsnede 5,5 cm) met aardbeienbavarois en leg het minimaal 2 uur in de vriezer.\n9. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, een kwart ei en een snuf zout tot een romig mengsel.\n10. Voeg de 70 gram bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n11. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n12. Meng voor de amandelspijs het amandelmeel, de 25 gram kristalsuiker en een kwart ei met elkaar.\n13. Kneed het geheel tot een bol, verpak het in huishoudfolie en plaats het in de koelkast.\n14. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n15. Haal het deeg en de amandelspijs na minstens 60 minuten uit de koelkast.\n16. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit.\n17. Steek met bakringen (6 cm doorsnede) 6 bodems uit het deeg.\n18. Verdeel de amandelspijs (spuitzak) over de bodems (maak indien nodig gebruik van wat extra ei) en zorg dat er 1 cm van de rand vrij wordt gehouden.\n19. Bak de bodems 17 minuten in de voorverwarmde oven.\n20. Laat de bodems volledig afkoelen.\n21. Week voor de glacage, de 4 blaadjes gelatine 10 minuten in koud water.\n22. Pureer 50 gram aardbeien.\n23. Smelt de witte chocolade.\n24. Breng 40 ml water en 35 gram kristalsuiker in een steelpan aan de kook en laat het even doorkoken, zodat het dikker wordt (het mag niet karamelliseren).\n25. Voeg de gepureerde aardbei, 75 gram kristalsuiker en 50 gram gecondenseerde melk hieraan toe en breng het al roerend aan de kook.\n26. Haal de steelpan van het vuur en meng de gesmolten witte chocolade hier geleidelijk doorheen.\n27. Knijp de gelatineblaadjes uit, los ze op in het mengsel en laat het geheel afkoelen (let op: mengsel mag niet te dik worden).\n28. Neem de bakvorm uit de vriezer en haal de aardbeienbavarois uit de vormpjes.\n29. Leg de halve bollen aardbeienbavarois op een rooster en giet de glacage hier overheen.\n30. Plaats elke geglaceerde bol op een sloffendeeg bodem.\n31. Laat het bolgebak ontdooien in de koelkast. "
+ },
+ {
+   "name": "Witte choco\ncupcakes",
+   "category": "!Nieuw",
+   "baketime": "30 min",
+   "expert": "Easy",
+   "id": 1034,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "5 stuks",
+   "imageName": "wittechococupcakes",
+   "ingredients": "Cupcake:\n- 1 ei\n- 100 gram gecondenseerde melk\n- 40 ml zonnebloemolie\n- 55 gram bloem\n- 4 gram bakpoeder\n\rWitte chocolade topping:\n- 20 ml slagroom\n- 75 gram witte chocolade",
+   "recipe": "1. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n2. Mix het ei, de gecondenseerde melk en de zonnebloemolie.\n3. Zeef de bloem en bakpoeder en meng dit door het mengsel tot een glad geheel.\n4. Vul 5 cupcakevormpjes (3/4 deel) met het cakebeslag.\n5. Bak de cupcakes 25 minuten in de voorverwarmde oven gaar.\n6. Laat de cupcakes volledig afkoelen.\n7. Verwarm voor de topping de slagroom in een steelpan.\n8. Verdeel de witte chocolade in blokjes en roer 50 gram hiervan door de warme slagroom tot een glad geheel.\n9. Rasp de overige 25 gram witte chocolade.\n10. Bestrijk de cupcakes met de vloeibare topping en strooi de geraspte witte chocolade hier overheen."
  }
 ]
