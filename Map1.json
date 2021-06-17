@@ -430,7 +430,7 @@
  },
  {
    "name": "Witte choco\ncupcakes",
-   "category": "!Nieuw",
+   "category": "Cake",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1034,
@@ -440,5 +440,18 @@
    "imageName": "wittechococupcakes",
    "ingredients": "Cupcake:\n- 1 ei\n- 100 gram gecondenseerde melk\n- 40 ml zonnebloemolie\n- 55 gram bloem\n- 4 gram bakpoeder\n\rWitte chocolade topping:\n- 20 ml slagroom\n- 75 gram witte chocolade",
    "recipe": "1. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n2. Mix het ei, de gecondenseerde melk en de zonnebloemolie.\n3. Zeef de bloem en bakpoeder en meng dit door het mengsel tot een glad geheel.\n4. Vul 5 cupcakevormpjes (3/4 deel) met het cakebeslag.\n5. Bak de cupcakes 25 minuten in de voorverwarmde oven gaar.\n6. Laat de cupcakes volledig afkoelen.\n7. Verwarm voor de topping de slagroom in een steelpan.\n8. Verdeel de witte chocolade in blokjes en roer 50 gram hiervan door de warme slagroom tot een glad geheel.\n9. Rasp de overige 25 gram witte chocolade.\n10. Bestrijk de cupcakes met de vloeibare topping en strooi de geraspte witte chocolade hier overheen."
+ },
+ {
+   "name": "Aardbeienvlaai",
+   "category": "!Nieuw",
+   "baketime": "180 min",
+   "expert": "Medium",
+   "id": 1035,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "aardbeienvlaai",
+   "ingredients": "Vlaaibodem:\n- 250 gram bloem\n- 5 gram instant gist\n- 1/2 tl zout\n- 40 gram ongezouten roomboter\n- 30 gram kristalsuiker\n- 1/2 ei\n- 100 ml volle melk\n\rBanketbakkersroom:\n- 65 gram kristalsuiker\n- 16 gram vanillesuiker\n- 3 eidooiers\n- 35 gram bloem\n- 350 ml volle melk\n\rGarnering:\n- 600 ml slagroom\n- 9 el kristalsuiker\n- 2,5 zakjes klopfix\n- 500 gram aardbeien",
+   "recipe": "1. Meng 250 gram bloem, 5 gram instant gist, 1/2 tl zout, 40 gram ongezouten roomboter, 30 gram kristalsuiker, een 1/2 ei en 100 ml melk.\n2. Kneed dit mengsel (m.b.v. een keukenmachine) 10 minuten tot een soepel deeg.\n3. Leg het deeg in een kom, bedek deze met huishoudfolie en laat het een uur rijzen.\n4. Mix voor de banketbakkersroom ondertussen de 65 gram kristalsuiker, 16 gram vanillesuiker en 3 eidooiers.\n5. Meng 35 gram bloem door het mengsel, totdat het helemaal is opgenomen.\n6. Breng 350 ml volle melk in een steelpan aan de kook.\n7. Voeg, wanneer de melk net kookt, deze langzaam toe aan het mengsel, totdat het volledig is opgenomen.\n8. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n9. Blijf roeren en laat het 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n10. Giet de banketbakkersroom in een kom en dek het af met huishoudfolie.\n11. Vet een vlaaivorm (26 cm doorsnede) in.\n12. Rol het deeg na een uur uit.\n13. Verwarm de oven voor op 220 graden (boven- en onderwarmte).\n14. Leg het deeg in de vlaaivorm en druk het rustig aan.\n15. Verdeel de banketbakkersroom over het deeg.\n16. Verwijder het overtollige deeg.\n17. Bak de vlaaibodem 25 minuten in de voorverwarmde oven.\n18. Laat de vlaaibodem een half uur afkoelen in de vorm en vervolgens volledig afkoelen op een taartrooster.\n19. Klop de 600 gram slagroom, 9 el kristalsuiker en klopfix stijf.\n20. Maak de aardbeien schoon en snijd ze doormidden.\n21. Verdeel 2/3 van de opgeklopte slagroom over de afgekoelde vlaaibodem.\n22. Verdeel de aardbeien over de slagroom.\n23. Garneer de aardbeienvlaai met toeven slagroom (overige 1/3 deel)."
  }
 ]
