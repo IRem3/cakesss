@@ -482,7 +482,7 @@
  },
  {
    "name": "Bosvruchtenslof",
-   "category": "!Nieuw",
+   "category": "Slof",
    "baketime": "180 min",
    "expert": "Medium",
    "id": 1038,
@@ -492,5 +492,18 @@
    "imageName": "bosvruchtenslof",
    "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rBosvruchtenbavarois:\n- 200 gram (bevroren) bosvruchten\n- 200 ml slagroom\n- 50 gram kristalsuiker\n- 3 blaadjes gelatine\n\rGarnering:\n- 100 ml slagroom\n- 1,5 el kristalsuiker\n- bosvruchten",
    "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout tot een romig mengsel.\n2. Voeg de bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, 50 gram kristalsuiker en een half ei met elkaar.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en plaats het in de koelkast.\n6. Week de blaadjes gelatine 10 minuten in koud water.\n7. Pureer 200 gram bosvruchten.\n8. Klop 200 ml slagroom en 50 gram kristalsuiker tot yoghurtdikte.\n9. Verwarm 4 el gepureerde bosvruchten in een steelpan.\n10. Knijp de gelatineblaadjes uit en los ze op in de warme bosvruchtenpuree.\n11. Voeg de warme puree toe aan de overgebleven koude bosvruchtenpuree.\n12. Spatel de bosvruchtenpuree door de slagroom.\n13. Vul twee siliconen bakvormen met 6 halve bollen (5,5 cm doorsnede) met de bosvruchtenbavarois en plaats ze minimaal 2 uur in de vriezer.\n14. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n15. Haal het deeg en de amandelspijs na 60 minuten uit de koelkast.\n16. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenring past.\n17. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n18. Verdeel de amandelspijs over de bodem (indien nodig wat extra ei toevoegen) en houd 1 cm van de rand vrij.\n19. Bak de slof 22 minuten in de voorverwarmde oven goudbruin.\n20. Verwijder de sloffenring en laat de slof volledig afkoelen.\n21. Klop 100 ml slagroom samen met 1,5 el kristalsuiker stijf.\n22. Neem de siliconen bakvormen uit de vriezer en haal de bosvruchtenbavarois uit de vormpjes.\n23. Verdeel de halve bollen bosvruchtenbavarois over de slof.\n24. Decoreer de slof met bosvruchten en toeven slagroom.\n25. Laat de slof voor het serveren eerst ontdooien in de koelkast."
+ },
+ {
+   "name": "Vruchtenschelp",
+   "category": "!Nieuw",
+   "baketime": "60 min",
+   "expert": "Medium",
+   "id": 1039,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "6 stuks",
+   "imageName": "vruchtenschelp",
+   "ingredients": "Schelpen:\n- 6 plakjes bladerdeeg\n- 1 ei\n- kristalsuiker\n\rBanketbakkersroom:\n- 65 gram kristalsuiker\n- 16 gram vanillesuiker\n- 3 eidooiers\n- 35 gram bloem\n- 350 ml volle melk\n\rGarnering:\n- stukjes fruit\n- 100 ml slagroom\n- 1,5 el kristalsuiker\n- 1/2 zakje klopfix",
+   "recipe": "1. Mix voor de banketbakkersroom 65 gram kristalsuiker, 16 gram vanillesuiker en 3 eidooiers.\n2. Meng hier 35 gram bloem doorheen, totdat het helemaal is opgenomen.\n3. Breng 350 ml volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Ontdooi de plakjes bladerdeeg.\n9. Verwarm de oven voor op 200 graden (onder- en bovenwarmte).\n10. Knip 6 rondjes (10 cm doorsnede) uit een vel bakpapier en snijd uit elk plakje bladerdeeg een rondje van 10 cm.\n11. Leg de bladerdeegrondjes op de rondjes bakpapier.\n12. Kluts het ei, smeer de bladerdeegrondjes hiermee in en bestrooi ze met kristalsuiker.\n13. Keer 2 cupcake bakblikken van 6 stuks om en leg hier per bakblik 3 bladerdeegrondjes om en om op.\n14. Druk deze aan, zodat ze mooi om de vormen heen sluiten en de vorm van een schelp krijgen.\n15. Bak de schelpen in 13 minuten in de voorverwarmde oven.\n16. Laat de schelpen volledig afkoelen.\n17. Klop 100 ml slagroom, 1,5 el kristalsuiker en een half zakje klopfix stijf.\n18. Maak het fruit schoon en snijd ze, indien nodig, in stukjes.\n19. Spuit de volledig afgekoelde banketbakkersroom in de schelpen.\n20. Decoreer de schelpen met de stukjes fruit en een toef slagroom."
  }
 ]
