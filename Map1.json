@@ -495,7 +495,7 @@
  },
  {
    "name": "Vruchtenschelp",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1039,
@@ -505,5 +505,18 @@
    "imageName": "vruchtenschelp",
    "ingredients": "Schelpen:\n- 6 plakjes bladerdeeg\n- 1 ei\n- kristalsuiker\n\rBanketbakkersroom:\n- 65 gram kristalsuiker\n- 16 gram vanillesuiker\n- 3 eidooiers\n- 35 gram bloem\n- 350 ml volle melk\n\rGarnering:\n- stukjes fruit\n- 100 ml slagroom\n- 1,5 el kristalsuiker\n- 1/2 zakje klopfix",
    "recipe": "1. Mix voor de banketbakkersroom 65 gram kristalsuiker, 16 gram vanillesuiker en 3 eidooiers.\n2. Meng hier 35 gram bloem doorheen, totdat het helemaal is opgenomen.\n3. Breng 350 ml volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Ontdooi de plakjes bladerdeeg.\n9. Verwarm de oven voor op 200 graden (onder- en bovenwarmte).\n10. Knip 6 rondjes (10 cm doorsnede) uit een vel bakpapier en snijd uit elk plakje bladerdeeg een rondje van 10 cm.\n11. Leg de bladerdeegrondjes op de rondjes bakpapier.\n12. Kluts het ei, smeer de bladerdeegrondjes hiermee in en bestrooi ze met kristalsuiker.\n13. Keer 2 cupcake bakblikken van 6 stuks om en leg hier per bakblik 3 bladerdeegrondjes om en om op.\n14. Druk deze aan, zodat ze mooi om de vormen heen sluiten en de vorm van een schelp krijgen.\n15. Bak de schelpen in 13 minuten in de voorverwarmde oven.\n16. Laat de schelpen volledig afkoelen.\n17. Klop 100 ml slagroom, 1,5 el kristalsuiker en een half zakje klopfix stijf.\n18. Maak het fruit schoon en snijd ze, indien nodig, in stukjes.\n19. Spuit de volledig afgekoelde banketbakkersroom in de schelpen.\n20. Decoreer de schelpen met de stukjes fruit en een toef slagroom."
+ },
+ {
+   "name": "Tiramisuslof",
+   "category": "!Nieuw",
+   "baketime": "100 min",
+   "expert": "Medium",
+   "id": 1040,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "tiramisuslof",
+   "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rTiramisuvulling:\n- 200 ml slagroom\n- 60 gram bruine basterdsuiker\n- 1 zakje klopfix\n- 250 gram mascarpone\n- 1 kop sterke koffie\n- 2 el amaretto\n- 10 lange vingers\n- cacaopoeder",
+   "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout tot een romig mengsel.\n2. Voeg de bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, 50 gram kristalsuiker en een half ei met elkaar.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en plaats het in de koelkast.\n6. Klop voor de tiramisuvulling de slagroom, bruine basterdsuiker en klopfix stijf.\n7. Meng de mascarpone door de slagroom.\n8. Zet een kop sterke koffie en roer 2 el koffie door het mengsel.\n9. Laat het tiramisumengsel in de koelkast opstijven.\n10. Giet de overige koffie met 2 el amaretto in een (platte) kom.\n11. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n12. Haal het deeg en de amandelspijs na 60 minuten uit de koelkast.\n13. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenring past.\n14. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n15. Verdeel de amandelspijs over de bodem (indien nodig wat extra ei toevoegen) en houd 1 cm van de rand vrij.\n16. Bak de slof 22 minuten in de voorverwarmde oven goudbruin.\n17. Verwijder de sloffenring en laat de slof volledig afkoelen.\n18. Verdeel een laag tiramisuvulling over de sloffenbodem.\n19. Doop de lange vingers een paar seconden in de koffie met amaretto en plaats ze, met de gesuikerde kant naar beneden, op de laag tiramisuvulling.\n20. Spuit dotten tiramisuvulling op de lange vingers en op de rand van de sloffenbodem.\n21. Zeef cacaopoeder over de slof."
  }
 ]
