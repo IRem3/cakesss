@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
@@ -521,7 +521,7 @@
  },
  {
    "name": "Snickerstaart",
-   "category": "!Nieuw",
+   "category": "Taart",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1041,
