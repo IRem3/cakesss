@@ -14,7 +14,7 @@
  },
  {
    "name": "MonChou Koek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1002,
@@ -27,7 +27,7 @@
  },
  {
    "name": "Appelcake",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1003,
