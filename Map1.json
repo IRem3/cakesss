@@ -14,7 +14,7 @@
  },
  {
    "name": "MonChou Koek",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1002,
@@ -531,5 +531,18 @@
    "imageName": "snickerstaart",
    "ingredients": "- 180 gram ongezouten roomboter\n- 55 gram kristalsuiker\n- snuf zout\n- 180 gram zelfrijzend bakmeel\n- 1 blikje gecondenseerde melk (400 gram)\n- 4 el donkerbruine basterdsuiker\n- 150 gram ongezouten pinda's\n- 200 gram melkchocolade",
    "recipe": "1. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n2. Mix 120 gram ongezouten roomboter, 55 gram kristalsuiker en een snuf zout.\n3. Voeg 180 gram zelfrijzend bakmeel toe, totdat het volledig is opgenomen.\n4. Vet een quichevorm (26 cm doorsnede, met een uitneembare bodem) in.\n5. Rol het deeg uit, bekleed de quichevorm met het deeg en prik gaatjes in de bodem.\n6. Bak de bodem 20 minuten in de voorverwarmde oven.\n7. Laat de bodem volledig afkoelen.\n8. Maak de dulce de leche door 60 gram ongezouten roomboter in een steelpan te verwarmen.\n9. Meng hier 4 el donkerbruine basterdsuiker en 1 blikje gecondenseerde melk doorheen.\n10. Blijf roeren en breng het geheel aan de kook.\n11. Laat het mengsel 5 minuten doorkoken, totdat de dulce de leche dik genoeg is.\n12. Spatel 150 gram ongezouten pinda's door de dulce de leche en verdeel dit over de bodem. Houd wel wat pinda's over voor de garnering.\n13. Laat de bodem met dulce de leche afkoelen.\n14. Smelt 200 gram melkchocolade en verdeel dit over de dulce de leche.\n15. Garneer de snickerstaart met wat dulce de leche en ongezouten pinda's.\n16. Laat de taart volledig afkoelen."
+ },
+ {
+   "name": "Aardbeien\nkwarktaart",
+   "category": "!Nieuw",
+   "baketime": "80 min",
+   "expert": "Medium",
+   "id": 1042,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "aardbeienkwarktaart",
+   "ingredients": "- 3 digestive biscuits (45 gram)\n- 30 gram ongezouten roomboter\n- 2 blaadjes gelatine\n- 200 gram aardbeien\n- 150 gram Franse volle kwark\n- 100 ml slagroom\n- 1 el kristalsuiker\n- 1 tl vanille-extract\n- 30 ml melk",
+   "recipe": "1. Maal de digestive biscuits fijn.\n2. Smelt de ongezouten roomboter in een steelpan totdat het gesmolten is, voeg de fijn gemalen biscuits hieraan toe en meng het met elkaar.\n3. Bekleed de bodem en ring van een springvorm (12 cm doorsnede) met bakpapier. Tip: vet de ring eerst in en druk het bakpapier hier tegenaan.\n4. Verdeel het biscuitmengsel over de bodem van de springvorm en druk het aan met de bolle kant van de lepel.\n5. Laat het geheel in de koelkast afkoelen.\n6. Week de 2 gelatineblaadjes 10 minuten in koud water.\n7. Maal 100 gram aardbeien fijn.\n8. Snijd de overige aardbeien doormidden en plaats ze tegen de ring van de springvorm.\n9. Vul een kom met de volle kwark en klop de slagroom met de kristalsuiker en het vanille-extract in een andere kom stijf.\n10. Verwarm de melk.\n11. Roer de uitgeknepen gelatineblaadjes door de melk en laat het wat afkoelen.\n12. Spatel eerst de melk, daarna de aardbeienpuree en ten slotte de opgeklopte slagroom door de kwark.\n13. Verdeel het kwarkmengsel egaal over de bodem van de springvorm en laat het minimaal 3 uur in de koelkast opstijven.\n14. Decoreer de taart met toefjes slagroom."
  }
 ]
