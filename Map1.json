@@ -235,7 +235,7 @@
  },
  {
    "name": "Marmercake",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1019,
@@ -534,7 +534,7 @@
  },
  {
    "name": "Aardbeien\nkwarktaart",
-   "category": "!Nieuw",
+   "category": "Taart",
    "baketime": "80 min",
    "expert": "Medium",
    "id": 1042,
