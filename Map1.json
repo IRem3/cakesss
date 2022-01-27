@@ -235,7 +235,7 @@
  },
  {
    "name": "Marmercake",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1019,
@@ -544,5 +544,18 @@
    "imageName": "aardbeienkwarktaart",
    "ingredients": "- 3 digestive biscuits (45 gram)\n- 30 gram ongezouten roomboter\n- 2 blaadjes gelatine\n- 200 gram aardbeien\n- 150 gram Franse volle kwark\n- 100 ml slagroom\n- 1 el kristalsuiker\n- 1 tl vanille-extract\n- 30 ml melk",
    "recipe": "1. Maal de digestive biscuits fijn.\n2. Smelt de ongezouten roomboter in een steelpan totdat het gesmolten is, voeg de fijn gemalen biscuits hieraan toe en meng het met elkaar.\n3. Bekleed de bodem en ring van een springvorm (12 cm doorsnede) met bakpapier. Tip: vet de ring eerst in en druk het bakpapier hier tegenaan.\n4. Verdeel het biscuitmengsel over de bodem van de springvorm en druk het aan met de bolle kant van de lepel.\n5. Laat het geheel in de koelkast afkoelen.\n6. Week de 2 gelatineblaadjes 10 minuten in koud water.\n7. Maal 100 gram aardbeien fijn.\n8. Snijd de overige aardbeien doormidden en plaats ze tegen de ring van de springvorm.\n9. Vul een kom met de volle kwark en klop de slagroom met de kristalsuiker en het vanille-extract in een andere kom stijf.\n10. Verwarm de melk.\n11. Roer de uitgeknepen gelatineblaadjes door de melk en laat het wat afkoelen.\n12. Spatel eerst de melk, daarna de aardbeienpuree en ten slotte de opgeklopte slagroom door de kwark.\n13. Verdeel het kwarkmengsel egaal over de bodem van de springvorm en laat het minimaal 3 uur in de koelkast opstijven.\n14. Decoreer de taart met toefjes slagroom."
+ },
+ {
+   "name": "Tiramisukoek",
+   "category": "!Nieuw",
+   "baketime": "100 min",
+   "expert": "Medium",
+   "id": 1043,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "6 stuks",
+   "imageName": "tiramisukoek",
+   "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rTiramisuvulling:\n- 200 ml slagroom\n- 60 gram bruine basterdsuiker\n- 1 zakje klopfix\n- 250 gram mascarpone\n- 1 kop sterke koffie\n- 2 el amaretto\n- 12 lange vingers\n- cacaopoeder",
+   "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout tot een romig mengsel.\n2. Voeg de bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, 50 gram kristalsuiker en een half ei met elkaar.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en plaats het in de koelkast.\n6. Klop voor de tiramisuvulling de slagroom, bruine basterdsuiker en klopfix stijf.\n7. Meng de mascarpone door de slagroom.\n8. Zet een kop sterke koffie en roer 2 el koffie door het mengsel.\n9. Laat het tiramisumengsel in de koelkast opstijven.\n10. Giet de overige koffie met 2 el amaretto in een (platte) kom.\n11. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n12. Haal het deeg en de amandelspijs na 60 minuten uit de koelkast.\n13. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit.\n14. Steek met bakringen (8 cm doorsnede) 6 bodems uit het deeg.\n15. Verdeel de amandelspijs over de bodems (indien nodig wat extra ei toevoegen) en houd 1 cm van de randen vrij.\n16. Bak de koeken 17 minuten in de voorverwarmde oven goudbruin.\n17. Verwijder de bakringen en laat de koekbodems volledig afkoelen.\n18. Verdeel een laag tiramisuvulling over de koekbodems.\n19. Doop de lange vingers een paar seconden in de koffie met amaretto, breek ze doormidden en plaats per koek vier helften, met de gesuikerde kant naar beneden, op de laag tiramisuvulling.\n20. Spuit dotten tiramisuvulling op de lange vingers en op de rand van de koekbodems.\n21. Zeef cacaopoeder over de koeken."
  }
 ]
