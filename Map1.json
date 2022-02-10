@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
@@ -404,7 +404,7 @@
  },
  {
    "name": "Notenslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1032,
