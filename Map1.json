@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
@@ -547,7 +547,7 @@
  },
  {
    "name": "Tiramisukoek",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1043,
