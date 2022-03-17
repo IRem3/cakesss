@@ -66,7 +66,7 @@
  },
  {
    "name": "Vanille cupcakes\nmet botercrème",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "75 min",
    "expert": "Medium",
    "id": 1006,
@@ -557,5 +557,18 @@
    "imageName": "tiramisukoek",
    "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rTiramisuvulling:\n- 200 ml slagroom\n- 60 gram bruine basterdsuiker\n- 1 zakje klopfix\n- 250 gram mascarpone\n- 1 kop sterke koffie\n- 2 el amaretto\n- 12 lange vingers\n- cacaopoeder",
    "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout tot een romig mengsel.\n2. Voeg de bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, 50 gram kristalsuiker en een half ei met elkaar.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en plaats het in de koelkast.\n6. Klop voor de tiramisuvulling de slagroom, bruine basterdsuiker en klopfix stijf.\n7. Meng de mascarpone door de slagroom.\n8. Zet een kop sterke koffie en roer 2 el koffie door het mengsel.\n9. Laat het tiramisumengsel in de koelkast opstijven.\n10. Giet de overige koffie met 2 el amaretto in een (platte) kom.\n11. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n12. Haal het deeg en de amandelspijs na 60 minuten uit de koelkast.\n13. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit.\n14. Steek met bakringen (8 cm doorsnede) 6 bodems uit het deeg.\n15. Verdeel de amandelspijs over de bodems (indien nodig wat extra ei toevoegen) en houd 1 cm van de randen vrij.\n16. Bak de koeken 17 minuten in de voorverwarmde oven goudbruin.\n17. Verwijder de bakringen en laat de koekbodems volledig afkoelen.\n18. Verdeel een laag tiramisuvulling over de koekbodems.\n19. Doop de lange vingers een paar seconden in de koffie met amaretto, breek ze doormidden en plaats per koek vier helften, met de gesuikerde kant naar beneden, op de laag tiramisuvulling.\n20. Spuit dotten tiramisuvulling op de lange vingers en op de rand van de koekbodems.\n21. Zeef cacaopoeder over de koeken."
+ },
+ {
+   "name": "Appelroomcake",
+   "category": "!Nieuw",
+   "baketime": "60 min",
+   "expert": "Medium",
+   "id": 1044,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "appelroomcake",
+   "ingredients": "Banketbakkersroom:\n- 22 gram kristalsuiker\n- 6 gram vanillesuiker\n- 1 eidooier\n- 12 gram bloem\n- 120 ml volle melk\n\rCake:\n- 100 gram ongezouten roomboter\n- 100 gram kristalsuiker\n- 1 zakje vanillesuiker\n- 2 eieren\n- 100 gram zelfrijzend bakmeel\n- snuf zout\n- 1 appel\n\rKruimels:\n- 30 gram ongezouten roomboter\n- 40 gram kristalsuiker\n- 40 gram bloem\n- snuf zout",
+   "recipe": "Opmerking: De banketbakkersroom kan het beste een dag van tevoren worden gemaakt.\n\r1. Mix voor de banketbakkersroom 22 gram kristalsuiker, 6 gram vanillesuiker en 1 eidooier.\n2. Meng hier 12 gram bloem doorheen, totdat het helemaal is opgenomen.\n3. Breng 120 ml volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Verwarm de oven voor op 175 graden (onder- en bovenwarmte).\n9. Mix 100 gram ongezouten roomboter, 100 gram suiker en 1 zakje vanillesuiker.\n10. Meng de eieren een voor een door het mengsel, totdat het volledig is opgenomen.\n11. Meng hier 100 gram zelfrijzend bakmeel en een snuf zout door.\n12. Snijd een geschilde appel in kleine stukjes, rol ze in een bakje bloem en spatel ze door het beslag.\n13. Vet een bakvorm (20 x 20 cm) in en bestrooi het met bloem.\n14. Giet het beslag in de bakvorm en verdeel hier de losgeklopte banketbakkersroom overheen.\n15. Meng 30 gram ongezouten roomboter, 40 gram kristalsuiker, 40 gram bloem en een snuf zout met elkaar tot kruimels.\n16. Strooi de kruimels over het cakebeslag en de banketbakkersroom.\n17. Bak de cake 40 minuten in de voorverwarmde oven gaar en goudbruin.\n18. Laat de appelroomcake eerst een aantal minuten afkoelen in de cakevorm, laat vervolgens de cake volledig afkoelen op een rooster."
  }
 ]
