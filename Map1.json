@@ -196,7 +196,7 @@
  },
  {
    "name": "Rijsttaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "60 min ",
    "expert": "Easy",
    "id": 1016,
@@ -560,7 +560,7 @@
  },
  {
    "name": "Appelroomcake",
-   "category": "!Nieuw",
+   "category": "Cake",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1044,
