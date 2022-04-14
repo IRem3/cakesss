@@ -196,7 +196,7 @@
  },
  {
    "name": "Rijsttaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "60 min ",
    "expert": "Easy",
    "id": 1016,
@@ -570,5 +570,18 @@
    "imageName": "appelroomcake",
    "ingredients": "Banketbakkersroom:\n- 22 gram kristalsuiker\n- 6 gram vanillesuiker\n- 1 eidooier\n- 12 gram bloem\n- 120 ml volle melk\n\rCake:\n- 100 gram ongezouten roomboter\n- 100 gram kristalsuiker\n- 1 zakje vanillesuiker\n- 2 eieren\n- 100 gram zelfrijzend bakmeel\n- snuf zout\n- 1 appel\n\rKruimels:\n- 30 gram ongezouten roomboter\n- 40 gram kristalsuiker\n- 40 gram bloem\n- snuf zout",
    "recipe": "Opmerking: De banketbakkersroom kan het beste een dag van tevoren worden gemaakt.\n\r1. Mix voor de banketbakkersroom 22 gram kristalsuiker, 6 gram vanillesuiker en 1 eidooier.\n2. Meng hier 12 gram bloem doorheen, totdat het helemaal is opgenomen.\n3. Breng 120 ml volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Verwarm de oven voor op 175 graden (onder- en bovenwarmte).\n9. Mix 100 gram ongezouten roomboter, 100 gram suiker en 1 zakje vanillesuiker.\n10. Meng de eieren een voor een door het mengsel, totdat het volledig is opgenomen.\n11. Meng hier 100 gram zelfrijzend bakmeel en een snuf zout door.\n12. Snijd een geschilde appel in kleine stukjes, rol ze in een bakje bloem en spatel ze door het beslag.\n13. Vet een bakvorm (20 x 20 cm) in en bestrooi het met bloem.\n14. Giet het beslag in de bakvorm en verdeel hier de losgeklopte banketbakkersroom overheen.\n15. Meng 30 gram ongezouten roomboter, 40 gram kristalsuiker, 40 gram bloem en een snuf zout met elkaar tot kruimels.\n16. Strooi de kruimels over het cakebeslag en de banketbakkersroom.\n17. Bak de cake 40 minuten in de voorverwarmde oven gaar en goudbruin.\n18. Laat de appelroomcake eerst een aantal minuten afkoelen in de cakevorm, laat vervolgens de cake volledig afkoelen op een rooster."
+ },
+ {
+   "name": "Blondies",
+   "category": "!Nieuw",
+   "baketime": "30 min",
+   "expert": "Easy",
+   "id": 1045,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "12 stuks",
+   "imageName": "blondies",
+   "ingredients": "- 150 gram ongezouten roomboter\n- 200 gram witte chocolade\n- 2 eieren\n- 150 gram lichte basterdsuiker\n- 1 tl vanille-extract\n- 40 gram stukjes hazelnoot\n- 40 gram karamel fudge",
+   "recipe": "1. Verwarm de oven voor op 170 graden (onder- en bovenwarmte).\n2. Bekleed een vierkante bakvorm (20x20 cm) met bakpapier.\n3. Smelt de ongezouten roomboter en 100 gram witte chocolade.\n4. Meng de eieren, lichte basterdsuiker en het vanille-extract.\n5. Roer de gesmolten roomboter/chocolade door dit mengsel.\n6. Snijd de karamel fudge en 100 gram witte chocolade in kleine stukjes.\n7. Spatel de stukjes hazelnoot, karamel fudge en witte chocolade door het blondiebeslag.\n8. Giet het beslag in de vierkante bakvorm.\n9. Bak de blondie 35 minuten in de voorverwarmde oven.\n10. Laat de blondie volledig afkoelen, voordat deze uit de bakvorm kan worden gehaald.\n11. Snijd de blondie in vierkante stukjes."
  }
 ]
