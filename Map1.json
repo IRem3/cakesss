@@ -313,7 +313,7 @@
  },
  {
    "name": "Arretjesplaatcake",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "20 min",
    "expert": "Easy",
    "id": 1025,
@@ -586,7 +586,7 @@
  },
  {
    "name": "Aardbei bavarois\nslof",
-   "category": "!Nieuw",
+   "category": "Slof",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1046,
