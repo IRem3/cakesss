@@ -53,7 +53,7 @@
  },
  {
    "name": "Appeltaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1005,
@@ -313,7 +313,7 @@
  },
  {
    "name": "Arretjesplaatcake",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "20 min",
    "expert": "Easy",
    "id": 1025,
