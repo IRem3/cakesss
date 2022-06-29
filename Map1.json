@@ -1,7 +1,7 @@
 [
  {
    "name": "Aardbeienslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1001,
@@ -53,7 +53,7 @@
  },
  {
    "name": "Appeltaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1005,
