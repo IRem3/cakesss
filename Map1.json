@@ -1,7 +1,7 @@
 [
  {
    "name": "Aardbeienslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1001,
@@ -14,7 +14,7 @@
  },
  {
    "name": "MonChou Koek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1002,
