@@ -27,7 +27,7 @@
  },
  {
    "name": "Appelcake",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1003,
@@ -40,7 +40,7 @@
  },
  {
    "name": "Perzik kwarktaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1004,
