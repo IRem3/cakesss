@@ -40,7 +40,7 @@
  },
  {
    "name": "Perzik kwarktaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1004,
@@ -53,7 +53,7 @@
  },
  {
    "name": "Appeltaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1005,
