@@ -53,7 +53,7 @@
  },
  {
    "name": "Appeltaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1005,
@@ -66,7 +66,7 @@
  },
  {
    "name": "Vanille cupcakes\nmet botercrème",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "75 min",
    "expert": "Medium",
    "id": 1006,
