@@ -79,7 +79,7 @@
  },
  {
    "name": "Cupcakes\nmet chocochips ",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "15 min",
    "expert": "Easy",
    "id": 1007,
@@ -92,7 +92,7 @@
  },
  {
    "name": "Appelslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "180 min",
    "expert": "Medium",
    "id": 1008,
