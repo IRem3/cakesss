@@ -92,7 +92,7 @@
  },
  {
    "name": "Appelslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "180 min",
    "expert": "Medium",
    "id": 1008,
@@ -105,7 +105,7 @@
  },
  {
    "name": "Cheesecake\nrood fruit",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Easy",
    "id": 1009,
