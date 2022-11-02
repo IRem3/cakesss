@@ -105,7 +105,7 @@
  },
  {
    "name": "Cheesecake\nrood fruit",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "60 min",
    "expert": "Easy",
    "id": 1009,
@@ -118,7 +118,7 @@
  },
  {
    "name": "Brownie witte\nchoco hazelnoot",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1010,
