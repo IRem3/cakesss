@@ -144,7 +144,7 @@
  },
   {
    "name": "Slagroomtaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1012,
@@ -157,7 +157,7 @@
  },
  {
    "name": "Apfelstrudel",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1013,
