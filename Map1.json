@@ -157,7 +157,7 @@
  },
  {
    "name": "Apfelstrudel",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1013,
@@ -170,7 +170,7 @@
  },
  {
    "name": "Slagroomsoesjes",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Easy",
    "id": 1014,
