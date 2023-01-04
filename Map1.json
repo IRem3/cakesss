@@ -170,7 +170,7 @@
  },
  {
    "name": "Slagroomsoesjes",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "60 min",
    "expert": "Easy",
    "id": 1014,
@@ -183,7 +183,7 @@
  },
  {
    "name": "Kersenslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "150 min",
    "expert": "Medium",
    "id": 1015,
