@@ -183,7 +183,7 @@
  },
  {
    "name": "Kersenslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "150 min",
    "expert": "Medium",
    "id": 1015,
@@ -196,7 +196,7 @@
  },
  {
    "name": "Rijsttaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "60 min ",
    "expert": "Easy",
    "id": 1016,
