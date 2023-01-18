@@ -196,7 +196,7 @@
  },
  {
    "name": "Rijsttaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "60 min ",
    "expert": "Easy",
    "id": 1016,
@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
