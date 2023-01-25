@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
@@ -222,7 +222,7 @@
  },
  {
    "name": "Boterkoek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1018,
