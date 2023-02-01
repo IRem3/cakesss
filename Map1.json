@@ -222,7 +222,7 @@
  },
  {
    "name": "Boterkoek",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1018,
@@ -378,7 +378,7 @@
  },
  {
    "name": "Mascarpone\naardbeien taart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "90 min",
    "expert": "Medium",
    "id": 1030,
