@@ -235,7 +235,7 @@
  },
  {
    "name": "Marmercake",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1019,
@@ -248,7 +248,7 @@
  },
  {
    "name": "Lemon curd\nMonChoutaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "90 min",
    "expert": "Easy",
    "id": 1020,
