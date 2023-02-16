@@ -378,7 +378,7 @@
  },
  {
    "name": "Mascarpone\naardbeien taart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "90 min",
    "expert": "Medium",
    "id": 1030,
@@ -547,7 +547,7 @@
  },
  {
    "name": "Tiramisukoek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1043,
