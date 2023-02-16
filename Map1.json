@@ -248,7 +248,7 @@
  },
  {
    "name": "Lemon curd\nMonChoutaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "90 min",
    "expert": "Easy",
    "id": 1020,
@@ -378,7 +378,7 @@
  },
  {
    "name": "Mascarpone\naardbeien taart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "90 min",
    "expert": "Medium",
    "id": 1030,
