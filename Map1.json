@@ -300,7 +300,7 @@
  },
  {
    "name": "Bokkenpootjes\ntaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1024,
@@ -547,7 +547,7 @@
  },
  {
    "name": "Tiramisukoek",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1043,
