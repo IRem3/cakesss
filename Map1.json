@@ -300,7 +300,7 @@
  },
  {
    "name": "Bokkenpootjes\ntaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "45 min",
    "expert": "Easy",
    "id": 1024,
@@ -313,7 +313,7 @@
  },
  {
    "name": "Arretjesplaatcake",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "20 min",
    "expert": "Easy",
    "id": 1025,
