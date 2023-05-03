@@ -352,7 +352,7 @@
  },
  {
    "name": "Tompouce",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "90 min",
    "expert": "Medium",
    "id": 1028,
@@ -365,7 +365,7 @@
  },
  {
    "name": "Chocoladebol",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Hard",
    "id": 1029,
