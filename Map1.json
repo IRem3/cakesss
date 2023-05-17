@@ -365,7 +365,7 @@
  },
  {
    "name": "Chocoladebol",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "60 min",
    "expert": "Hard",
    "id": 1029,
@@ -378,7 +378,7 @@
  },
  {
    "name": "Mascarpone\naardbeien taart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "90 min",
    "expert": "Medium",
    "id": 1030,
