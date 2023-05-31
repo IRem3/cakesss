@@ -378,7 +378,7 @@
  },
  {
    "name": "Mascarpone\naardbeien taart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "90 min",
    "expert": "Medium",
    "id": 1030,
@@ -391,7 +391,7 @@
  },
  {
    "name": "Aardbeien/kersen\nminikoeken",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "150 min",
    "expert": "Medium",
    "id": 1031,
