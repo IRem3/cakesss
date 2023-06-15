@@ -391,7 +391,7 @@
  },
  {
    "name": "Aardbeien/kersen\nminikoeken",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "150 min",
    "expert": "Medium",
    "id": 1031,
@@ -404,7 +404,7 @@
  },
  {
    "name": "Notenslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1032,
