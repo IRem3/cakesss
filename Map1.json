@@ -404,7 +404,7 @@
  },
  {
    "name": "Notenslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1032,
@@ -417,7 +417,7 @@
  },
  {
    "name": "Bolgebak aardbei",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "180 min",
    "expert": "Hard",
    "id": 1033,
