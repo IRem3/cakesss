@@ -508,7 +508,7 @@
  },
  {
    "name": "Tiramisuslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1040,
@@ -521,7 +521,7 @@
  },
  {
    "name": "Snickerstaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1041,
