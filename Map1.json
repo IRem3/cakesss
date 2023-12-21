@@ -534,7 +534,7 @@
  },
  {
    "name": "Aardbeien\nkwarktaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "80 min",
    "expert": "Medium",
    "id": 1042,
@@ -547,7 +547,7 @@
  },
  {
    "name": "Tiramisukoek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1043,
