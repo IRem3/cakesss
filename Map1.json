@@ -248,7 +248,7 @@
  },
  {
    "name": "Lemon curd\nMonChoutaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "90 min",
    "expert": "Easy",
    "id": 1020,
@@ -586,7 +586,7 @@
  },
  {
    "name": "Aardbei bavarois\nslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1046,
