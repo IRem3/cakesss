@@ -170,7 +170,7 @@
  },
  {
    "name": "Slagroomsoesjes",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Easy",
    "id": 1014,
@@ -534,7 +534,7 @@
  },
  {
    "name": "Aardbeien\nkwarktaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "80 min",
    "expert": "Medium",
    "id": 1042,
