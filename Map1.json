@@ -170,7 +170,7 @@
  },
  {
    "name": "Slagroomsoesjes",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "60 min",
    "expert": "Easy",
    "id": 1014,
@@ -235,7 +235,7 @@
  },
  {
    "name": "Marmercake",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1019,
@@ -248,7 +248,7 @@
  },
  {
    "name": "Lemon curd\nMonChoutaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "90 min",
    "expert": "Easy",
    "id": 1020,
