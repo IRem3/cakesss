@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
@@ -456,7 +456,7 @@
  },
  {
    "name": "Noten-karamel\nkoek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1036,
