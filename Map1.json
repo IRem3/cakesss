@@ -261,7 +261,7 @@
  },
  {
    "name": "Aardbeienschelp",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1021,
@@ -365,7 +365,7 @@
  },
  {
    "name": "Chocoladebol",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Hard",
    "id": 1029,
