@@ -365,7 +365,7 @@
  },
  {
    "name": "Chocoladebol",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "60 min",
    "expert": "Hard",
    "id": 1029,
@@ -586,7 +586,7 @@
  },
  {
    "name": "Aardbei bavarois\nslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1046,
