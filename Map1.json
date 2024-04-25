@@ -573,7 +573,7 @@
  },
  {
    "name": "Blondies",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1045,
@@ -586,7 +586,7 @@
  },
  {
    "name": "Aardbei bavarois\nslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1046,
