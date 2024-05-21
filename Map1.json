@@ -560,7 +560,7 @@
  },
  {
    "name": "Appelroomcake",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1044,
@@ -573,7 +573,7 @@
  },
  {
    "name": "Blondies",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1045,
