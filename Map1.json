@@ -547,7 +547,7 @@
  },
  {
    "name": "Tiramisukoek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1043,
@@ -560,7 +560,7 @@
  },
  {
    "name": "Appelroomcake",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1044,
