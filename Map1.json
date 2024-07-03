@@ -521,7 +521,7 @@
  },
  {
    "name": "Snickerstaart",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "60 min",
    "expert": "Medium",
    "id": 1041,
@@ -534,7 +534,7 @@
  },
  {
    "name": "Aardbeien\nkwarktaart",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "80 min",
    "expert": "Medium",
    "id": 1042,
