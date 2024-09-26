@@ -456,7 +456,7 @@
  },
  {
    "name": "Noten-karamel\nkoek",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1036,
@@ -469,7 +469,7 @@
  },
  {
    "name": "Arretjes karamel\nplaatcake",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "40 min",
    "expert": "Easy",
    "id": 1037,
