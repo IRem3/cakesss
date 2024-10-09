@@ -443,7 +443,7 @@
  },
  {
    "name": "Aardbeienvlaai",
-   "category": "Taart",
+   "category": "!Trending",
    "baketime": "180 min",
    "expert": "Medium",
    "id": 1035,
@@ -456,7 +456,7 @@
  },
  {
    "name": "Noten-karamel\nkoek",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "120 min",
    "expert": "Medium",
    "id": 1036,
