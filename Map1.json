@@ -430,7 +430,7 @@
  },
  {
    "name": "Witte choco\ncupcakes",
-   "category": "Cake",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1034,
@@ -443,7 +443,7 @@
  },
  {
    "name": "Aardbeienvlaai",
-   "category": "!Trending",
+   "category": "Taart",
    "baketime": "180 min",
    "expert": "Medium",
    "id": 1035,
