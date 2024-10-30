@@ -417,7 +417,7 @@
  },
  {
    "name": "Bolgebak aardbei",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "180 min",
    "expert": "Hard",
    "id": 1033,
@@ -430,7 +430,7 @@
  },
  {
    "name": "Witte choco\ncupcakes",
-   "category": "!Trending",
+   "category": "Cake",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1034,
