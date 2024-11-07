@@ -417,7 +417,7 @@
  },
  {
    "name": "Bolgebak aardbei",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "180 min",
    "expert": "Hard",
    "id": 1033,
@@ -573,7 +573,7 @@
  },
  {
    "name": "Blondies",
-   "category": "Koek",
+   "category": "!Trending",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1045,
