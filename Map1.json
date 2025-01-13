@@ -14,7 +14,7 @@
  },
  {
    "name": "MonChou Koek",
-   "category": "!Trending",
+   "category": "Koek",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1002,
@@ -209,7 +209,7 @@
  },
  {
    "name": "Karamelslof",
-   "category": "!Trending",
+   "category": "Slof",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1017,
@@ -482,7 +482,7 @@
  },
  {
    "name": "Bosvruchtenslof",
-   "category": "Slof",
+   "category": "!Trending",
    "baketime": "180 min",
    "expert": "Medium",
    "id": 1038,
